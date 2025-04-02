@@ -15,32 +15,35 @@ class Course(models.Model):
     semester = models.PositiveSmallIntegerField(choices=SEMESTER_CHOICES, null=True, blank=True)
 
     def __str__(self):
-        return f"({self.code}) {self.name}"
+        return self.code
     
 class Reference(models.Model):
-    name = models.CharField(max_length=256, unique=True)
-    link = models.URLField(null=True)
+    number = models.PositiveSmallIntegerField(default=0)
+    name = models.CharField(max_length=256)
     course = models.ForeignKey(Course, on_delete=models.CASCADE, related_name="references")
 
     def __str__(self):
         return f"({self.course}) {self.name}"
 
 class Unit(models.Model):
-    name = models.CharField(max_length=128, unique=True)
+    number = models.PositiveSmallIntegerField(default=0)
+    name = models.CharField(max_length=128)
     course = models.ForeignKey(Course, on_delete=models.CASCADE, related_name='units')
 
     def __str__(self):
         return f"({self.course}) {self.name}"
 
 class Topic(models.Model):
-    name = models.CharField(max_length=128, unique=True)
+    number = models.PositiveSmallIntegerField(default=0)
+    name = models.CharField(max_length=256)
     unit = models.ForeignKey(Unit, on_delete=models.CASCADE, related_name='topics')
 
     def __str__(self):
-        return f"({self.unit}) - {self.name}"
+        return f"({self.unit.course}) - {self.name}"
 
 class Experiment(models.Model):
-    description = models.CharField(unique=True, max_length=512)
+    number = models.PositiveSmallIntegerField(default=0)
+    description = models.CharField(max_length=512)
     course = models.ForeignKey(Course, on_delete=models.CASCADE, related_name="experiments")
 
     def __str__(self):
