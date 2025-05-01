@@ -1,11 +1,83 @@
 {% extends "courses/layout.html" %}
 
-{% block body %}
+{% block styles %}
+<style>
+    .sidebar {
+        background-color: #f5f7fa !important;
+        border-right: 1px solid #e2e8f0;
+        padding-top: 1.5rem;
+    }
+    
+    .sidebar h4 {
+        color: #1a365d;
+        font-weight: normal;
+        border-bottom: 1px solid #8b0000;
+        padding-bottom: 0.5rem;
+        margin-bottom: 1rem;
+    }
+    
+    .sidebar .nav-link {
+        color: #2c5282 !important;
+        font-size: 1.05rem;
+        padding: 0.5rem 0.75rem;
+    }
+    
+    .sidebar .nav-link:hover {
+        background-color: #e2e8f0;
+        border-radius: 4px;
+    }
+    
+    main h2, main h3, main h4 {
+        color: #1a365d;
+        font-weight: normal;
+    }
+    
+    main h2 {
+        margin-top: 0.5rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    main h4 {
+        margin-top: 1.5rem;
+        margin-bottom: 1rem;
+        border-bottom: 1px solid #e2e8f0;
+        padding-bottom: 0.5rem;
+    }
+    
+    .accordion-button {
+        font-family: 'Garamond', 'Times New Roman', serif;
+        color: #1a365d;
+    }
+    
+    .accordion-button:not(.collapsed) {
+        background-color: #e9f0ff;
+        color: #1a365d;
+    }
+    
+    a {
+        color: #2c5282;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        text-decoration: underline;
+    }
+    
+    .accordion-body ul {
+        padding-left: 1.2rem;
+    }
+    
+    .accordion-body li {
+        margin-bottom: 0.5rem;
+    }
+</style>
+{% endblock %}
 
+{% block body %}
 <div class="container-fluid">
     <div class="row">
         <!-- Sidebar -->
-        <nav class="col-md-3 col-lg-2 d-md-block bg-light sidebar vh-100 p-3">
+        <nav class="col-md-3 col-lg-2 d-md-block sidebar vh-100 p-3">
             <h4>Year {{ year }} Courses</h4>
             <ul class="nav flex-column">
                 {% for c in courses %}

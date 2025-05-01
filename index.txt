@@ -1,0 +1,60 @@
+List of courses for B.Tech CSE in NIT Andhra Pradesh: 
+
+First Year Courses:
+Unless mentioned specifically, the following first year courses belong to semester 1 or 2 for different students.
+Differential and Integral Calculus (MA101, 3 credits) - Semester 1
+Matrices and Differential Equations (MA151, 3 credits) - Semester 2
+ENGLISH FOR TECHNICAL COMMUNICATION (HS101, 3 credits)
+Engineering Physics (PH101, 3 credits)
+Basic Electronics Engineering (EC101, 2 credits)
+ENVIRONMENTAL SCIENCE AND ENGINEERING (CE102, 2 credits)
+Introduction to Algorithmic Thinking and Programming (CS101, 3 credits)
+Introduction to Algorithmic Thinking and Programming Lab (CS102, 2 credits)
+Engineering Physics Lab (PH102, 2 credits)
+Physical Education (EA101, 1 credits)
+Health Education (EA151, 1 credits)
+Engineering Graphics with Computer Aided Drafting (ME102, 2 credits)
+Engineering Chemistry (CY101, 3 credits)
+Elements of Electrical Engineering (EE101, 2 credits)
+BIOLOGY FOR ENGINEERS (BT101, 2 credits)
+Basics of Mechanical Engineering (ME101, 2 credits)
+Engineering Mechanics (CE101, 2 credits)
+Workshop Practice (ME103, 2 credits)
+Engineering Chemistry Lab (CY102, 2 credits)
+
+Second Year Courses (Semesters 3 and 4):
+Semester 3 (Odd Semester Second Year) courses include -
+Data Structures and Algorithms (CS201, 3 credits)
+Operating Systems (CS202, 3 credits)
+Discrete Mathematics (CS203, 3 credits)
+Data Structures and Algorithms Laboratory (CS204, 2 credits)
+Operating Systems Lab (CS205, 2 credits)
+Probability, Statistics and Stochastic Processes (MA204, 3 credits)
+Digital Logic Design (EC237, 4 credits)
+
+Semester 4 (Even Semester Second Year) courses include -
+Object Oriented Programming (CS251, 4 credits)
+Design and Analysis of Algorithms (CS252, 3 credits)
+Computer Organization and Architecture (CS253, 3 credits)
+Theory of Computation (CS254, 3 credits)
+Database Management Systems (CS255, 3 credits)
+Unix Tools and Shell Scripting Lab (CS256, 2 credits)
+Database Management Systems Lab (CS257, 2 credits)
+
+Third Year (Semesters 5 and 6):
+Semester 5 (Odd Semester Third Year) courses include -
+Language Processors (CS301, 3 credits)
+Theory and design of Programming Languages (CS302, 4 credits)
+Artificial Intelligence (CS303, 3 credits)
+Artificial Intelligence lab (CS304, 2 credits)
+
+Semester 6 (Even Semester Third Year) courses include -
+Software Engineering (CS351, 3 credits)
+Computer Networks (CS352, 3 credits)
+Web Application Development (CS353, 3 credits)
+Network Programming Lab (CS354, 2 credits)
+
+Fourth Year Semester 7 courses:
+Year 4 Semester 1 - Cryptography and Engineering Secure Systems (CS401, 3 credits)
+Year 4 Semester 1 - Big Data Engineering (CS402, 4 credits)
+Year 4 Semester 1 - Entrepreneurship for Engineers (SM430, 3 credits)
