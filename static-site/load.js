@@ -35,7 +35,7 @@ async function loadPartial(selector, url, clickedEl) {
 
     const code = clickedEl.dataset.code;
     if (code) {
-        fetch('jsons/' + code + '.json')
+        fetch('/jsons/' + code + '.json')
             .then(response => response.json()) // Parse the JSON data from the response
             .then(jsonObject => {
                 console.log(code)
@@ -139,12 +139,16 @@ async function initChat() {
 
     const courseDict = await loadCourseDict();
 
+    console.log("Chat inits")
+
     messageForm.addEventListener('submit', async (event) => {
         event.preventDefault();
         const message = messageInput.value.trim();
         if (message.length === 0) {
             return;
         }
+
+        console.log(message)
 
         const queryItem = document.createElement('li');
         queryItem.classList.add('message', 'sent')
@@ -164,7 +168,7 @@ async function initChat() {
         let replyText = "Sorry, I could not identify the course your query pertains to. Please include the full name of the course in your query. Note that only the courses listed in this website are accessible to me."
         
         if (courseCode) {
-            const res = await fetch("jsons/" + courseCode + ".json");
+            const res = await fetch("/jsons/" + courseCode + ".json");
             const json = await res.json();
             const context = JSON.stringify(json);
 
@@ -177,8 +181,10 @@ ${context}
 Answer this question to the best of your ability: ${message}
             `;
 
-            // replyText = await queryLLM(prompt);
+            replyText = await queryLLM(prompt);
         }
+
+        console.log(replyText)
     
         const replyItem = document.createElement('li');
         replyItem.classList.add('message', 'received');
@@ -236,10 +242,10 @@ function findCourse(query, courseDict) {
 
 async function loadCourseDict() {
   const urls = [
-    'jsons/Y1.json',
-    'jsons/Y2.json',
-    'jsons/Y3.json',
-    'jsons/Y4.json',
+    '/jsons/Y1.json',
+    '/jsons/Y2.json',
+    '/jsons/Y3.json',
+    '/jsons/Y4.json',
   ];
 
   let courseDict = {};
