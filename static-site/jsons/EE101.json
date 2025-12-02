@@ -1,0 +1,76 @@
+{
+    "code": "EE101",
+    "name": "Elements of Electrical Engineering",
+    "prerequisites": [],
+    "credits": 2,
+    "year": 1,
+    "semester": null,
+    "references": [
+        "Edward Hughes, Electrical & Electronic Technology, Pearson, 12 th Edition, 2016.",
+        "Vincent Del Toro, Electrical Engineering Fundamentals, Pearson, 2 nd Edition, 2015.",
+        "V N Mittle and Arvind Mittal, Basic Electrical Engineering, Tata McGraw Hill, 2nd Edition,",
+        "E. Openshaw Taylor, Utilization of Electrical Energy, Orient Longman, 2010.",
+        "B.L.Theraja , Fundamentals of Electrical Engineering and Electronics volume -I, S Chand & Company 2005.",
+        "Ashfaq Husain, Fundamentals of Electrical Engineering, Dhanpat Rai & Sons 4 th edition, 2010.",
+        "H.Partab: Art & Science of Utilization of Electric Energy, Dhanpat Rai & Sons, 1998.",
+        "Fundamentals of Electrical Circuits by Charles k.Alexander, Mattew N.O.Saidiku, Tata McGraw Hill company"
+    ],
+    "experiments": [],
+    "units": {
+        "Basic Concepts": [
+            "Electric Charge",
+            "Current and Electromotive force",
+            "Potential and Potential Difference",
+            "Electrical Power and Energy",
+            "Ohm\u2019s Law, Resistance",
+            "Capacitance and Inductance",
+            "Series and Parallel Connection of Resistances and Capacitances",
+            "Kirchoff\u2019s Laws and Their Applications"
+        ],
+        "AC Fundamentals": [
+            "Concept of Alternating Voltage and Current, RMS and Average Values",
+            "Single Phase and Three Phase Supply",
+            "3-ph Star-Delta connections",
+            "Alternating Voltage applied to Pure Resistance, Inductance, Capacitance and their combinations",
+            "Concept of Power and Power Factor in AC Circuit."
+        ],
+        "Measuring Instruments": [
+            "Principle and Construction of Instruments used for Measuring Current, Voltage, Power and Energy",
+            "Methods and precautions in use of these."
+        ],
+        "Electromagnetic Induction": [
+            "Concept of Magnetic Field",
+            "Magnetic Flux",
+            "Reluctance",
+            "Magneto Motive Force (MMF)",
+            "Permeability",
+            "Self and Mutual Induction",
+            "Basic Electromagnetic laws",
+            "Various losses in magnetic circuits"
+        ],
+        "Electrical Machines": [
+            "Elementary concepts of an electrical machine",
+            "Basic principle of a motor and a generator",
+            "Classification of Electrical machines",
+            "Principles, Construction and Working of a machine",
+            "Starters: Need, Construction and Operation",
+            "Transformer: Classification, Principles, Construction and Working of a Transformer, Applications of Transformers"
+        ],
+        "Utilization of Electricity": [
+            "Utilization concepts of Electricity for electrolysis process",
+            "Electrochemical Cells & Batteries",
+            "Application of Electricity, Energy Conversation and Efficiency"
+        ],
+        "Basic Troubleshooting": [
+            "Basic Testing and faults diagnosis in electrical systems",
+            "Various tools and their applications",
+            "Replacement of different passive components"
+        ],
+        "Electrical Safety": [
+            "Electrical Shock and Precautions against it",
+            "Treatment of Electric Shock",
+            "Concept of Fuses and Their Classification, Selection and Application",
+            "Concept of Earthing"
+        ]
+    }
+}

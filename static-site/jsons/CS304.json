@@ -1,0 +1,35 @@
+{
+    "code": "CS304",
+    "name": "Artificial Intelligence lab",
+    "prerequisites": [
+        "CS102",
+        "CS201"
+    ],
+    "credits": 2,
+    "year": 3,
+    "semester": 1,
+    "references": [
+        "Stuart Russell, Peter Norvig, \u201cArtificial Intelligence -A Modern Approach\u201d, 3/e, Pearson, 2003.",
+        "Trevor Hastie, Robert Tibshirani, Jerome Friedman, \u201cThe Elements of Statistical Learning: Data Mining, Inference, And Prediction\u201d, 2nd Edition, Springer, 2017.",
+        "Christopher M. Bishop, \u201cPattern Recognition and Machine Learning\u201d, Springer, 2010.",
+        "Introduction to Statistical Learning in Python: [https://github.com/emredjan/ISLpython](https://github.com/emredjan/ISLpython)",
+        "Representations and Inference for Logic: [http://aima.cs.berkeley.edu/python/logic.html](http://aima.cs.berkeley.edu/python/logic.html)"
+    ],
+    "experiments": [
+        "Implement uninformed search techniques such as DFS, BFS, and IDS.",
+        "Implement informed search technique A* with suitable heuristic functions.",
+        "Implement local search techniques such as Hill Climbing, GA, and SA.",
+        "Implement multiplayer games using minimax, \u221d-\u03b2 pruning, and expecti minimax. (e.g: tic tac toe, Nim, a problem involving dice).",
+        "Solve Constraint Satisfaction Problems (e.g: Map coloring).",
+        "Implement first-order logic inference.",
+        "Implement Inference in Bayesian Networks.",
+        "Implement a Decision Tree.",
+        "Implement Regression (Linear, Logistic)",
+        "Implement kNN for classification and Regression.",
+        "Implement SVM for classification and Regression.",
+        "Implement ANN for classification and Regression.",
+        "Implement clustering using the EM algorithm.",
+        "Use the EM algorithm for learning with hidden variables."
+    ],
+    "units": {}
+}

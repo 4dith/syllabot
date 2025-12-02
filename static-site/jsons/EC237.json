@@ -1,0 +1,13 @@
+{
+    "code": "EC237",
+    "name": "Digital Logic Design",
+    "prerequisites": [
+        "EC101"
+    ],
+    "credits": 4,
+    "year": 2,
+    "semester": 1,
+    "references": [],
+    "experiments": [],
+    "units": {}
+}

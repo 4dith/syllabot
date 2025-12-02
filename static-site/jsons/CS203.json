@@ -1,0 +1,95 @@
+{
+    "code": "CS203",
+    "name": "Discrete Mathematics",
+    "prerequisites": [],
+    "credits": 3,
+    "year": 2,
+    "semester": 1,
+    "references": [
+        "Discrete Mathematics and its Applications, Kenneth H. Rosen, 7th Edition, Tata McGraw Hill Publishers, 2007.",
+        "Discrete Mathematics for Computer Scientists and Mathematicians, Joe L. Mott, Abraham Kandel, Theodore P. Baker, Second Edition, PHI, 2001.",
+        "Discrete Mathematics, Norman L Biggs, 2nd Edition, Indian Edition published by Oxford University Press.",
+        "Discrete Mathematical Structures, Tremblay J. P. and Manohar R., MGH, 1997."
+    ],
+    "experiments": [],
+    "units": {
+        "Sets and Relations": [
+            "Sets, Operations on Sets",
+            "Venn Diagrams",
+            "Multi Sets",
+            "Binary Relations",
+            "Equivalence Relations",
+            "Ordering Relations",
+            "Operations on Relations",
+            "Partial Orders"
+        ],
+        "Functions": [
+            "Definition and Introduction",
+            "Composition of Functions",
+            "Inverse Functions",
+            "Binary and n-ary Operations."
+        ],
+        "Mathematical Logic and Induction": [
+            "Statements and Notation",
+            "Connectives",
+            "Quantified Propositions",
+            "Logical Inferences",
+            "Methods of Proof of an Implication",
+            "First Order Logic and other Methods of Proof",
+            "Rules of Inference for Quantified Propositions",
+            "Proof by Mathematical Induction."
+        ],
+        "Elementary Combinatorics": [
+            "Basics of Counting",
+            "Combinations and Permutations",
+            "Enumeration of Combinations and Permutations",
+            "Enumerating Combinations and Permutations with Repetitions",
+            "Enumerating Permutations with Constrained Repetitions",
+            "Binomial Coefficients",
+            "The Binomial and Multinomial Theorems",
+            "The Principle of Inclusion- Exclusion."
+        ],
+        "Recurrence Relations": [
+            "Generating Functions of Sequences",
+            "Calculating Coefficients of Generating Functions",
+            "Recurrence Relations",
+            "Solving Recurrence Relations by Substitution and Generating Functions",
+            "The Method of Characteristic Roots",
+            "Solutions of Inhomogeneous Recurrence Relations"
+        ],
+        "Lattices as Partially Ordered Sets": [
+            "Definition and Examples",
+            "Properties of Lattices",
+            "Lattices as Algebraic Systems",
+            "Sublattices",
+            "Direct Product",
+            "Homomorphism",
+            "Some Special lattices"
+        ],
+        "Graphs": [
+            "Basic Definitions",
+            "Undirected and Directed Graphs",
+            "Paths",
+            "Representation of Graphs",
+            "Reachability",
+            "Connected Components",
+            "Examples of Special graphs",
+            "Graph Isomorphism",
+            "Planar Graphs",
+            "Euler\u2019s Formula",
+            "Euler Circuits",
+            "Hamiltonian Graphs",
+            "Chromatic Number of a Graph",
+            "The Four-Color Problem",
+            "Graph Traversals",
+            "Applications of Graphs"
+        ],
+        "Algebraic Structures": [
+            "Groups",
+            "Semigroups",
+            "Monoids",
+            "Rings",
+            "Fields"
+        ]
+    }
+}

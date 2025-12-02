@@ -1,0 +1,50 @@
+{
+    "code": "CS401",
+    "name": "Cryptography and Engineering Secure Systems",
+    "prerequisites": [
+        "CS202",
+        "CS352"
+    ],
+    "credits": 3,
+    "year": 4,
+    "semester": 1,
+    "references": [
+        "A. Menezes, P. Van Oorschot, S. Vanstone, Handbook of Applied Cryptography, CRCPress, 2004.",
+        "Swarup Bhunia and Mark Tehranipoor, Hardware Security: A Hands-on Learning Approach, Elsevier, 2019.",
+        "William Stallings and Lawrie Brown, Computer Security: Principles and Practice, Pearson, 2017.",
+        "Trent Jaeger, Operating System Security, Morgan & Claypool Publishers, 2009."
+    ],
+    "experiments": [],
+    "units": {
+        "Cryptography": [
+            "Introduction to Security",
+            "Classifications of Attacks",
+            "Security Services",
+            "Security Mechanisms",
+            "Mathematics of Cryptography",
+            "Stream and Block Ciphers",
+            "Public and Private Key Cryptosystems"
+        ],
+        "Hardware Security": [
+            "Hardware Trojans and Detection",
+            "PUFs",
+            "Power Analysis Attacks and Countermeasures",
+            "Fault Attacks",
+            "Implementation Aspects of Crypto Algorithms (AES and ECC)",
+            "Micro Architectural Security Timing attacks and Covert Channels",
+            "RAM based attacks",
+            "Cold boot"
+        ],
+        "Operating System Security": [
+            "Stack Smashing Attacks",
+            "Dynamic Memory Allocation Attacks",
+            "Format String Vulnerabilities",
+            "ROP attacks",
+            "Side Channel Attacks in Operating Systems, Countermeasures",
+            "Non-executable stacks",
+            "Capability based Systems",
+            "Canaries",
+            "Malware Analysis Techniques."
+        ]
+    }
+}

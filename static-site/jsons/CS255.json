@@ -1,0 +1,87 @@
+{
+    "code": "CS255",
+    "name": "Database Management Systems",
+    "prerequisites": [
+        "CS201",
+        "CS202",
+        "CS203",
+        "CS204",
+        "CS205"
+    ],
+    "credits": 3,
+    "year": 2,
+    "semester": 2,
+    "references": [
+        "A Silberschatz, H Korth and S Sudarshan, Database System Concepts, 7th edition, McGraw-Hill, 2010.",
+        "R Elmasri, S Navathe, Fundamentals of Database Systems, 7th edition, Pearson,",
+        "R Ramakrishnan, J Gehrke, Database Management Systems, 3rd edition, McGrawHill, 2003.",
+        "C J Date, An Introduction to Database Systems, Pearson/Addison Wesley, 2003."
+    ],
+    "experiments": [],
+    "units": {
+        "Introduction": [
+            "Basic concepts of database systems",
+            "Database System Applications",
+            "Purpose of Database Systems",
+            "Data View",
+            "Database Languages",
+            "Characteristics of a database approach",
+            "Advantages of DBMS over file system",
+            "Database Design",
+            "Database Engine",
+            "Database and Application Architecture",
+            "Database Users and Administrators",
+            "History of Database systems"
+        ],
+        "Database models": [
+            "ER-model: Features of the E-R model",
+            "Database design using the ER model",
+            "Relational model: Relational Database Schemas, Keys, Integrity constraints over relations",
+            "E-R model to relational schema",
+            "Relational algebra, relational calculus"
+        ],
+        "SQL": [
+            "Form of a basic SQL Query, Insert, Delete and Update database",
+            "Set Operations",
+            "Nested queries",
+            "Aggregate Functions",
+            "Null Values",
+            "Integrity Constraints",
+            "Join Expressions \u2013 Natural join, Equi-join, Inner join, Outer join",
+            "Views",
+            "Triggers"
+        ],
+        "Database design": [
+            "Functional-Dependency",
+            "Soundness and completeness of Armstrong\u2019s axioms",
+            "Normal Forms",
+            "Loss-less decomposition",
+            "Dependency preservation",
+            "Decomposition Using Functional Dependencies",
+            "Multivalued Dependencies and 4NF",
+            "Join dependencies and 5NF",
+            "Decomposition Algorithms"
+        ],
+        "Data Storage Structure and Indexing": [
+            "Memory hierarchy",
+            "Redundant Arrays of Independent Disks",
+            "File organization and indexing",
+            "Index Data Structures: Hash-based indexing and Tree-based Indexing (B+ trees and B-trees)",
+            "Introduction to Query optimization and execution"
+        ],
+        "Transactions, concurrency control and recovery": [
+            "ACID properties",
+            "Transactions and Schedules",
+            "Concurrent execution of transactions",
+            "Lock-Based Protocols",
+            "Deadlock Handling",
+            "Concurrency control without locking",
+            "Introduction to crash recovery",
+            "ARIES",
+            "Write-Ahead log protocol",
+            "Checkpointing",
+            "Recovery from a system crash",
+            "Security, authorization and access control."
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "code": "CS302",
+    "name": "Theory and design of Programming Languages",
+    "prerequisites": [],
+    "credits": 4,
+    "year": 3,
+    "semester": 1,
+    "references": [
+        "Robert Harper, Practical Foundations for Programming Languages, Cambridge University Press, Second Edition, 2016.",
+        "Michael L. Scott, \u201cProgramming Language Pragmatics\u201d, Fourth Edition, Morgan Kaufmann, 2016."
+    ],
+    "experiments": [
+        "Familiarization with the syntactic constructs of Modernized Algol.",
+        "Exercises involving imperative programming languages like Modernized Algol.",
+        "Familiarization with Concurrent programming constructs.",
+        "Case Studies in Concurrent programming.",
+        "Familiarization with the syntactic constructs of Haskell.",
+        "Case Studies in Haskell.",
+        "Familiarization with ML constructs.",
+        "Case Studies in ML.",
+        "Familiarization with Prolog constructs.",
+        "Case Studies in Prolog."
+    ],
+    "units": {
+        "Syntactic Objects": [
+            "Abstract Syntax Trees",
+            "Abstract Binding Trees"
+        ],
+        "Inductive definitions, Hypothetical and general judgements": [
+            "Derivability",
+            "admissibility"
+        ],
+        "Church\u2019s Lambda calculus": [],
+        "Static and dynamic semantics, type safety, Binding": [],
+        "Higher-order total computation": [
+            "G\u00f6del's T",
+            "Higher-order programming in T"
+        ],
+        "Generic programming": [
+            "inductive and co-inductive types"
+        ],
+        "Polymorphism, genericity, Existential types, Data Abstraction.": [],
+        "Parametricity": [
+            "Verification of ADTs",
+            "Higher-order partial computation: Plotkin\u2019s PCF"
+        ],
+        "General recursive types: FPC": [],
+        "Dynamic Languages": [
+            "DPCF",
+            "Dynamic dispatch",
+            "Calculus and DPCF"
+        ],
+        "Exceptions and control data. Programming with continuations.": [],
+        "Imperative programming": [
+            "Modernized Algol."
+        ],
+        "Dynamic Classification, Lazy evaluation.": [],
+        "Parallelism": [
+            "Work & span",
+            "Brent\u2019s theorem"
+        ],
+        "Haskell and ML: Constructs and programming techniques": [],
+        "Concurrency: Calculus": [],
+        "Logic paradigm: Prolog, constructs, and programming techniques": []
+    }
+}

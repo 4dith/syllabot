@@ -1,0 +1,106 @@
+{
+    "code": "CS353",
+    "name": "Web Application Development",
+    "prerequisites": [
+        "CS255"
+    ],
+    "credits": 3,
+    "year": 3,
+    "semester": 2,
+    "references": [
+        "Jeffrey C. Jackson, \u201cWeb Technologies \u2013 A Computer Science Perspective\u201d, Pearson Education, Fourth Edition, 2012.",
+        "Paul Deitel, Harvey Deitel, Abbey Deitel, \u201cInternet and World Wide Web How to Program\u201d, Pearson, Fifth Edition, 2011.",
+        "Leonard Richardson & Sam Ruby, \u201cRESTful Web Services\u201d, O\u2019Reilly, 2007",
+        "Anthony, Accomazzo, Murray Nathaniel, Lerner Ari, \u201cFullstack React: The Complete Guide to React JS and Friends\u201d, [Fullstack.io](http://fullstack.io/), 2017.",
+        "Brown, Ethan, \u201cWeb Development with Node and Express: Leveraging the JavaScript Stack\u201d, O'Reilly Media, 2019.",
+        "Dayley B., \u201cNode.js, MongoDB, and AngularJS Web Development\u201d, Addison-Wesley Professional, 2014.",
+        "Laura Lernay, Rafe Colburn, Jennifer Kyrnir, \u201cMastering HTML, CSS &Javascript Web\u201d, BPB Publications, 2016."
+    ],
+    "experiments": [
+        "Construct a static website using basic HTML5 and CSS3",
+        "Design XML document for formatting, styling, and schema",
+        "Construct a RESTful service by utilizing Back-end application",
+        "Develop a full stack application and deploy using Github/Heroku",
+        "Simulate SQL injection"
+    ],
+    "units": {
+        "Deconstructing the web from URL to website": [
+            "Different types of web applications",
+            "Static vs Dynamic sites",
+            "HTML5",
+            "Headers",
+            "Linking",
+            "Images",
+            "Image map",
+            "Meta elements",
+            "Frameset",
+            "HTML forms",
+            "Cascading style sheet",
+            "DHTML",
+            "Object model",
+            "Event model",
+            "Two tier and Three tier architecture",
+            "Tools to analyze HTTP requests"
+        ],
+        "UI design for web applications using CSS3": [],
+        "Developer Tools": [
+            "Git",
+            "IDE/ Editors",
+            "Deployment",
+            "Console"
+        ],
+        "Frameworks": [
+            "Mean",
+            "Mern",
+            "Django"
+        ],
+        "XML Basics": [
+            "Structure",
+            "Elements and attributes",
+            "Namespaces",
+            "Working with DTD Schema",
+            "Grouping elements",
+            "Writing and Parsing XML Document",
+            "JSON - Introduction"
+        ],
+        "Client-side scripting": [
+            "Javascript (ES6+) / JQuery",
+            "DOM manipulation through XQuery",
+            "Responsive Web Design",
+            "Front end framework- Angular JS/ React JS"
+        ],
+        "Different kinds of servers": [
+            "Web servers \u2013 Apache & nginx",
+            "File servers",
+            "Time servers",
+            "DB servers"
+        ],
+        "Introduction to NodeJS": [
+            "Asynchronous nature of nodejs",
+            "Simple apps",
+            "Integrating application with DB",
+            "DB drivers",
+            "Integrate NodeJS with NOSQL",
+            "Integrate NodeJS with SQL"
+        ],
+        "Web Architecture & Web services": [
+            "MVC introduction",
+            "Thin clients Vs Thick clients",
+            "Web services \u2013 Introduction",
+            "SOAP, REST",
+            "Writing a RESTful service (nodejs + express)",
+            "SOAP Vs REST"
+        ],
+        "Web security model": [
+            "HTTPS: Goals and Pitfalls",
+            "Injection flaws",
+            "Cross site scripting",
+            "SQL Injection",
+            "Command Injection",
+            "Cross site request forgery",
+            "HTTP header injection",
+            "Cookie Flaws and Server Misconfiguration",
+            "Session management and user authentication"
+        ]
+    }
+}

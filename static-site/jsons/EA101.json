@@ -1,0 +1,59 @@
+{
+    "code": "EA101",
+    "name": "Physical Education",
+    "prerequisites": [],
+    "credits": 1,
+    "year": 1,
+    "semester": null,
+    "references": [],
+    "experiments": [],
+    "units": {
+        "Introduction to Physical Education & EAA = Sports and Games": [
+            "Meaning & Definition of Physical Education",
+            "Aims & Objectives of Physical Education",
+            "Importance of Physical Education"
+        ],
+        "Physical Fitness & Wellness Lifestyle": [
+            "Meaning & Importance of Physical Fitness",
+            "Components of Physical Fitness (Cardiovascular Endurance, Strength Endurance Muscular Endurance, Flexibility, Body Composition)",
+            "Components of Motor Fitness (Agility, Balance, Power, Speed, Coordination)",
+            "Development of Fitness Components"
+        ],
+        "Training Methods in Physical Education": [
+            "Circuit Training (Circuit Training)",
+            "Continues Training (Endurance)",
+            "Interval Training (Speed & Endurance)",
+            "Fartlek Training (Speed Endurance)",
+            "Weight Training (Maximum Strength)",
+            "Plyometric Training (Power), Flexibility Training"
+        ],
+        "Test & Measurements": [
+            "Measurements: Height, Weight, Age, Calculation of BMI",
+            "Motor Fitness and Physical Fitness Tests (Pre - Test & Post-Test)",
+            "Cardiovascular Endurance - 9/12 Minute Run or Walk",
+            "Muscular Endurance \u2013 Sit Ups for abdominal strength",
+            "Strength Endurance \u2013 Flexed arm hang for girls / Pull ups for boys",
+            "Speed \u2013 50m Dash or 30mts Fly Start",
+            "Strength \u2013 Broad Jump, Vertical Jump for Lower Body",
+            "Medicine Ball Put for Shoulder Strength",
+            "Endurance - 800mts",
+            "Flexibility - Bend and Reach",
+            "Agility (Coordination) \u2013 Shuttle Run and Box Run"
+        ],
+        "Formal Activities": [
+            "Calisthenics (free hand exercises)",
+            "Dumbbells",
+            "Woops, Wands, Laziums (Rhythmic activities)",
+            "Aerobic Dance and Marching"
+        ],
+        "Sports / Games (any one Game/Sport of choice of student)": [
+            "Athletics",
+            "Badminton",
+            "Ball badminton",
+            "Kabaddi",
+            "Kho-Kho",
+            "Table Tennis",
+            "Yoga"
+        ]
+    }
+}

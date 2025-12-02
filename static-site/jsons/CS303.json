@@ -1,0 +1,99 @@
+{
+    "code": "CS303",
+    "name": "Artificial Intelligence",
+    "prerequisites": [
+        "CS201",
+        "CS203",
+        "MA204"
+    ],
+    "credits": 3,
+    "year": 3,
+    "semester": 1,
+    "references": [
+        "Stuart Russell, Peter Norvig, \u201cArtificial Intelligence -A Modern Approach\u201d, 3/e, Pearson, 2003.",
+        "Trevor Hastie, Robert Tibshirani, Jerome Friedman, \u201cThe Elements of Statistical Learning: Data Mining, Inference, And Prediction\u201d, 2nd Edition, Springer, 2017.",
+        "Christopher M. Bishop, \u201cPattern Recognition and Machine Learning\u201d, Springer, 2010.",
+        "[https://github.com/emredjan/ISL-python](https://github.com/emredjan/ISL-python)"
+    ],
+    "experiments": [],
+    "units": {
+        "Introduction and Scope": [
+            "Agents and Environments",
+            "Concept of Rationality"
+        ],
+        "Solving problems by Search": [
+            "Uninformed Search Strategies",
+            "Breadth-first search",
+            "Depth first search",
+            "Searching with Partial Information",
+            "Informed (Heuristic) Search Strategies",
+            "Greedy best-first search"
+        ],
+        "A* Search": [
+            "Minimizing the total estimated solution cost",
+            "Heuristic Functions",
+            "Local Search Algorithms, and Optimization Problems",
+            "Online Search Agents, and Unknown Environments"
+        ],
+        "Adversarial Search": [
+            "Games, the minimax algorithm",
+            "Optimal decisions in multiplayer games",
+            "Alpha-Beta Pruning",
+            "Evaluation functions",
+            "Cutting off search",
+            "Games that Include an Element of Chance"
+        ],
+        "Constraint Satisfaction Problem": [
+            "Definition",
+            "Constraint Propagation",
+            "Search for CSPs"
+        ],
+        "Inference In First Order Logic": [
+            "Propositional vs. First-Order Inference",
+            "Unification and Lifting",
+            "Forward Chaining",
+            "Backward Chaining",
+            "Resolution",
+            "The Wumpus World"
+        ],
+        "Planning": [
+            "Classical Planning",
+            "Algorithms for planning as state space search",
+            "Planning graphs"
+        ],
+        "Uncertainty": [
+            "Inference Using Full Joint Distributions",
+            "Independence, Bayes Rule, and its Use",
+            "The Wumpus World Revisited"
+        ],
+        "Probabilistic Reasoning": [
+            "Representing Knowledge in an Uncertain Domain",
+            "The Semantics of Bayesian Networks",
+            "Efficient Representation of Conditional Distribution",
+            "Exact Inference in Bayesian Networks",
+            "Approximate Inference in Bayesian Networks"
+        ],
+        "Learning from Examples": [
+            "Supervised Learning",
+            "Learning Decision Trees",
+            "Evaluating and Choosing the Best Hypothesis",
+            "The Theory of Learning",
+            "Regression and Classification with Linear Models",
+            "ANNs",
+            "Non-Parametric Models",
+            "SVMs",
+            "Ensemble Learning"
+        ],
+        "Unsupervised Learning": [
+            "Clustering",
+            "Dimensionality reduction",
+            "Association analysis"
+        ],
+        "Statistical Learning Methods": [
+            "Statistical Learning",
+            "Learning with Complete Data",
+            "Learning with Hidden Variables: The EM Algorithm"
+        ],
+        "Introduction to Reinforcement Learning": []
+    }
+}

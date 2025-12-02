@@ -1,0 +1,53 @@
+{
+    "code": "MA204",
+    "name": "Probability, Statistics and Stochastic Processes",
+    "prerequisites": [
+        "MA101",
+        "MA151"
+    ],
+    "credits": 3,
+    "year": 2,
+    "semester": 1,
+    "references": [
+        "R.A. Johnson, Miller and Freund\u2019s , Probability and Statistic for Engineers, Pearson Publishers, 9th Edition, 2017.",
+        "Freund, Modern elementary statistics, PHI, 2006.",
+        "S.C.Gupta and V.K.Kapoor, Fundamentals of Mathematical Statistics, 2006.",
+        "Kantiswarup, P.K.Gupta and Manmohan Singh, Operations Research, S.Chand & Co, 2010.",
+        "B. Prabhakara Rao (Author), T.S.R. Murthy, Probability Theory and Stochastic Processes Kindle Edition , 2019.",
+        "U.N. Bhat and Gregory K. Miller, Elements of Applied Stochastic Processes, John Wiley and Sons, 2002.",
+        "K.S. Trivedi, Probability and Statistics with Reliability, Queuing, and Computer Science Applications, Prentice Hall of India, 2008"
+    ],
+    "experiments": [],
+    "units": {
+        "Random variables and their distributions": [
+            "Introduction to Probability",
+            "Random variables (discrete and continuous)",
+            "Probability density and mass functions",
+            "Distribution functions",
+            "Mean and variance",
+            "Moment generating and Characteristic function",
+            "Special distributions (Binomial, Hypergeometric, Poisson, Uniform, Exponential, Normal, Chi-square)",
+            "Chebyshev\u2019s inequality",
+            "Statistic estimation of parameters by maximum Likelihood Estimation method parameter"
+        ],
+        "Testing of Hypothesis": [
+            "Testing of Hypothesis",
+            "Null and alternative hypothesis",
+            "Level of significance",
+            "One-tailed and two-tailed tests",
+            "Tests for large samples (tests for single mean, difference of means, single proportion, difference of proportions)",
+            "Tests for small samples (t-test for single mean and difference of means, F-test for comparison of variances)",
+            "Chi-square test for goodness of fit, analysis of variance (one way classification with the samples of equal and unequal sizes)",
+            "Correlation and regression",
+            "Multiple and partial correlation, rank correlation and Karl Pearson coefficient of correlation",
+            "Lines of regression."
+        ],
+        "Stochastic Process": [
+            "Definition and classification of general stochastic processes",
+            "Markov Chains: definition, transition probability matrices, classification of states, limiting properties",
+            "Discrete Time Markov Chains: ChapmanKolmogorov equations, Ergodicity, Reducibility/Irreducibility, Time reversible chains",
+            "Applications of Markov chains in Queuing models",
+            "Continuous Time Markov Chains: Birth-Death processes, Poisson processes, M/M/1 Queuing Models"
+        ]
+    }
+}

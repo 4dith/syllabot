@@ -1,0 +1,59 @@
+{
+    "code": "CY101",
+    "name": "Engineering Chemistry",
+    "prerequisites": [],
+    "credits": 3,
+    "year": 1,
+    "semester": null,
+    "references": [
+        "Organic Chemistry, Clayden, Greaves, Warren and Wothers, Oxford University Press, 2014.",
+        "Organic Spectroscopy, William Kemp, 2nd edition, Macmillan publishers, 2019.",
+        "Advanced Inorganic Chemistry, F. Albert Cotton, Geoffrey Wilkinson, Carlos A. Murillo and Manfred Bochmann, 6th Edition, 1988.",
+        "Physical Chemistry, P. Atkins and Julio de Paula, 8th Edition, Freeman & Co. 2017.",
+        "A Textbook of Engineering Chemistry, Shashi Chawla, 2017.",
+        "Polymer Science and Technology, Premamoy Ghosh, 3rd edition, McGrawHill, 2010."
+    ],
+    "experiments": [],
+    "units": {
+        "Basic Organic Chemistry": [
+            "Reaction intermediates: carbocations, carbanions, free radicals and carbenes.",
+            "Classification of organic reactions, examples and their mechanisms: substitution, addition, elimination and rearrangement reactions",
+            "Reimer\u2013Tiemann reaction",
+            "Kolbe Schmidt reaction",
+            "Cannizzaro reaction",
+            "Pinacol-Pinacolone, Hofmann and Beckmann rearrangements",
+            "Diels-Alder reaction"
+        ],
+        "Spectroscopic Techniques for Chemical Analysis": [
+            "Introduction of spectroscopy",
+            "Quantum aspects of electronic, vibrational and nuclear energy levels",
+            "UV-Visible spectroscopy: Principle, Instrumentation, Beer-Lambert\u2019s law, Effect of conjugation, Woodward-Fieser empirical rules for acyclic/cyclic dienes",
+            "IR spectroscopy: Principle, Factors that affect vibrational frequencies and functional group detection",
+            "Proton NMR spectroscopy: Principle, Instrumentation, Chemical equivalency, Chemical shift and spin-spin splitting",
+            "Applications of UV-Vis, IR and proton-NMR spectroscopy in determining the structure of small organic molecules."
+        ],
+        "Coordination Chemistry": [
+            "Introduction of coordination chemistry",
+            "Valence bond (VB) theory and shapes of Inorganic Compounds",
+            "Spectrochemical series",
+            "Crystal Field theory (CFT): octahedral and tetrahedral complexes, Crystal field splitting energy (CFSE)",
+            "Molecular Orbital (MO) Theory: Molecular orbital diagrams for octahedral complexes (strong and weak ligand fields)."
+        ],
+        "Electrochemistry": [
+            "Electrodes, Electrochemical Cells",
+            "Electrochemical series and Nernst equation",
+            "Conductometry and Potentiometry",
+            "Batteries: Types of batteries, Ni-Cd and Lithium (Li)- ion batteries",
+            "Fuel Cells: Hydrogen-Oxygen, Methanol-Oxygen fuel cells",
+            "Corrosion - Theories of corrosion, Wet corrosion, Types of wet corrosion, Factors affecting the rate of corrosion",
+            "Corrosion control methods: Sacrificial anode method and Impressed current method."
+        ],
+        "Engineering Materials and Applications": [
+            "Polymers: Introduction, Types of polymerization, Functionality in polymers, Number and Weight average molecular weight, Polydispersity index",
+            "Biodegradable polymers",
+            "Conductive polymers: classification, examples and applications",
+            "Organic light emitting diode (OLED): structure, principle and applications",
+            "Optical fibres: principle and Applications"
+        ]
+    }
+}

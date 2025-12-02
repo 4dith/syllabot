@@ -1,0 +1,36 @@
+{
+    "code": "CS204",
+    "name": "Data Structures and Algorithms Laboratory",
+    "prerequisites": [
+        "CS101",
+        "CS102"
+    ],
+    "credits": 2,
+    "year": 2,
+    "semester": 1,
+    "references": [
+        "Data structures and Algorithms in C++, Michael T.Goodrich, R.Tamassia, and Mount, John Wiley and Sons, Second Edition, 2011.",
+        "Data structures and Algorithm Analysis in C++, Mark Allen Weiss, Pearson Education. Ltd., Fourth Edition, 2014.",
+        "Data structures and algorithms in C++, Fourth Edition, Adam Drozdek, Thomson, Cengage, 2013.",
+        "Data Structures: A Pseudocode Approach with C++, Richard F. Gilberg, Behrouz A. Forouzan, Second Edition, Thomson Learning, 2004.",
+        "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein, Introduction to Algorithms, Third Edition, PHI, 2009."
+    ],
+    "experiments": [
+        "Implementation of Stack and Queue using Arrays.",
+        "Implementation of Stack-based applications like postfix expression evaluation and infix to postfix conversion.",
+        "Implementation of Queue and Circular Queue.",
+        "Implementation of Single Linked List, Doubly Linked List and Circular Linked List.",
+        "Implementation of Stack and Queue using Linked List.",
+        "Representative problems with solutions involving Stack, Queue and Linked List.",
+        "Implementation of Binary Search Tree.",
+        "Implementation of BST traversals in recursive and non-recursive ways.",
+        "Implementation of AVL Tree.",
+        "Implementation of Priority Queue.",
+        "Implementation of Dictionaries using open and closed addressing schemes.",
+        "Implementation of Trie for fast text matching.",
+        "Implementation of Quick, Merge, Counting, Radix and Bucket sorts.",
+        "Implementation of Graphs and Depth First & Breadth First Traversals.",
+        "Mini project involving design, memory organization, implementation and complexity analysis of data structures and their associated operations."
+    ],
+    "units": {}
+}

@@ -1,0 +1,47 @@
+{
+    "code": "MA151",
+    "name": "Matrices and Differential Equations",
+    "prerequisites": [
+        "MA101"
+    ],
+    "credits": 3,
+    "year": 1,
+    "semester": 2,
+    "references": [
+        "E. Kreyszig, Advanced Engineering Mathematics, Eighth Edition, John Wiley and Sons, 2015.",
+        "B. S. Grewal, Higher Engineering Mathematics, Khanna Publications, 2015.",
+        "R. K. Jain and S. R. K. Iyengar, Advanced Engineering Mathematics, Fifth Edition, Narosa Publishing House, 2016.",
+        "G. Strang, Linear Algebra and Its Applications, 4th Edition, Brooks/Cole India,",
+        "T. M. Apostol, Calculus, Volume 2 (2nd Edition), Wiley Eastern, 1980."
+    ],
+    "experiments": [],
+    "units": {
+        "Matrix Theory": [
+            "Linear dependence and independence of vectors",
+            "Rank of a matrix",
+            "Consistency of the system of linear equations",
+            "Eigenvalues and eigenvectors of a matrix",
+            "Caley-Hamilton theorem and its applications",
+            "Reduction to diagonal form",
+            "Reduction of a quadratic form to canonical form - orthogonal transformation",
+            "Properties of complex matrices - Hermitian, skew-Hermitian and Unitary matrices."
+        ],
+        "Ordinary Differential Equations of Higher Order": [
+            "Higher order linear differential equations with constant coefficients - homogeneous and non-homogeneous",
+            "Euler and Cauchy\u2019s differential equations",
+            "Method of variation of parameters",
+            "System of linear differential equations",
+            "Applications in physical problems - forced oscillations, electric circuits, etc."
+        ],
+        "Laplace Transforms": [
+            "Laplace transforms",
+            "Inverse Laplace transforms",
+            "Properties of Laplace transforms",
+            "Laplace transforms of unit step function, impulse function, periodic function",
+            "Convolution theorem",
+            "Solving certain initial value problems",
+            "Solving system of linear differential equations",
+            "Finding responses of systems to various inputs viz. sinusoidal inputs acting over a time interval, rectangular waves, impulses etc."
+        ]
+    }
+}

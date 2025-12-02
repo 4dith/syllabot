@@ -1,0 +1,102 @@
+{
+    "code": "CS301",
+    "name": "Language Processors",
+    "prerequisites": [
+        "CS254"
+    ],
+    "credits": 3,
+    "year": 3,
+    "semester": 1,
+    "references": [
+        "Alfred V. Aho, Monical S.Lam, Ravi Sethi, and Jeffrey D. Ullman Compilers - Principles, Techniques and Tools, 2nd Edition, Pearson, 2007.",
+        "Randy Allen, Ken Kennedy, Optimizing Compilers for Modern Architectures, Morgan Kauffmann, 2001."
+    ],
+    "experiments": [],
+    "units": {
+        "Introduction to System Software": [
+            "Macro processors",
+            "One pass and two pass assemblers",
+            "Linkers",
+            "Loaders, Types of Loaders",
+            "Interpreters",
+            "Debuggers",
+            "Compilers"
+        ],
+        "Phases of Compilers": [
+            "Compiler Construction Tools",
+            "Bootstrapping"
+        ],
+        "Lexical analyzer": [
+            "The Role of the Lexical Analyzer",
+            "Input Buffering",
+            "Specification of Tokens",
+            "Recognition of Tokens",
+            "A Language for Specifying Lexical Analyzers"
+        ],
+        "Parsing": [
+            "The Role of the Parser",
+            "Context-Free Grammars",
+            "Top-Down Parsing",
+            "BottomUp Parsing",
+            "Operator-Precedence Parsing",
+            "LR Parsers",
+            "Using Ambiguous Grammars",
+            "Parser Generators"
+        ],
+        "Syntax-Directed Translation": [
+            "Syntax-Directed Definitions",
+            "Construction of Syntax Trees",
+            "Bottom- Up Evaluation of S-Attributed Definitions",
+            "L-Attributed Definitions",
+            "Top-Down Translation",
+            "Bottom-Up Evaluation of Inherited Attributes",
+            "Recursive Evaluators",
+            "Space for Attribute Values at Compile Time",
+            "Assigning Spaces at Compiler-Construction Time",
+            "Analysis of Syntax-Directed Definitions"
+        ],
+        "Type Checking": [
+            "Type Systems",
+            "Specification of a Simple Type Checker",
+            "Equivalence of Type Expressions",
+            "Type Conversions",
+            "Overloading of Functions and Operators",
+            "Polymorphic Functions",
+            "An algorithm for Unification"
+        ],
+        "Run-Time Environments": [
+            "Source Language Issues",
+            "Storage Organization",
+            "StorageAllocation Strategies",
+            "Access to Nonlocal Names",
+            "Parameter Passing",
+            "Symbol Tables",
+            "Language Facilities for Dynamic Storage Allocation",
+            "Dynamic Storage Allocation Techniques",
+            "Storage Allocation in Fortran"
+        ],
+        "Intermediate Code Generation": [
+            "Intermediate Languages",
+            "Declarations",
+            "Assignment Statements",
+            "Boolean Expressions",
+            "Case Statements",
+            "Backpatching",
+            "Procedure Calls"
+        ],
+        "Code Generation": [
+            "Issues in the Design of a Code Generator",
+            "The Target Machine",
+            "RunTime Storage Management",
+            "Basic Blocks and Flow Graphs",
+            "Next-Use Information",
+            "A Simple Code Generator",
+            "Register Allocation and Assignment",
+            "The Dag Representation of Basic Blocks",
+            "Peephole Optimization",
+            "Generating Code from DAGs",
+            "Dynamic Programming Code-Generation Algorithm",
+            "Code-Generator Generators."
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "code": "EC101",
+    "name": "Basic Electronics Engineering",
+    "prerequisites": [],
+    "credits": 2,
+    "year": 1,
+    "semester": null,
+    "references": [
+        "Bhargava N. N., D C Kulshreshtha and S C Gupta, Basic Electronics & Linear Circuits, 2nd Edition, Tata McGraw Hill, 2013.",
+        "S. Sedra and K. C. Smith, Microelectronic Circuits, Oxford University Press, 6th Edition",
+        "Leach , Malvino, Saha, Digital Principles and Applications, McGraw Hill Education , 8th Edition",
+        "Boylestad, Robert L., Louis Nashelsky, Electronic Devices and Circuit, Pearson , 11th Edition",
+        "Helfrick and Cooper, \u2015 Modern Electronic Instrumentation and Measurement Techniques\u2016 PHI, 2011",
+        "Neil Storey, Electronics A Systems Approach, 4th Edition, Pearson Education Publishing Company Pvt Ltd"
+    ],
+    "experiments": [],
+    "units": {
+        "Introduction and Diodes": [
+            "Introduction to electronics systems",
+            "Diode circuit models and applications",
+            "Zener diode as regulator",
+            "Photodiode."
+        ],
+        "Transistor and applications": [
+            "Introduction to transistors",
+            "BJT Characteristics, biasing and applications",
+            "FET and MOSFET characteristics and applications"
+        ],
+        "Feedback in Electronic Systems": [
+            "Open loop and closed loop systems",
+            "Negative and positive Feedback",
+            "Principles of LC and RC oscillators."
+        ],
+        "Integrated Circuits": [
+            "Operational amplifiers Characteristics and applications",
+            "Linear operations using Op-amps"
+        ],
+        "Digital Circuits": [
+            "Number systems and logic gates",
+            "Combinational Logic circuits",
+            "Sequential Circuits",
+            "Analog to Digital and Digital to Analog converters (ADC/DAC)"
+        ],
+        "Laboratory measuring instruments": [
+            "Principles of digital multi-meters",
+            "Cathode ray oscilloscopes (CRO)"
+        ]
+    }
+}

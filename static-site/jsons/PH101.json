@@ -1,0 +1,68 @@
+{
+    "code": "PH101",
+    "name": "Engineering Physics",
+    "prerequisites": [],
+    "credits": 3,
+    "year": 1,
+    "semester": null,
+    "references": [
+        "A Textbook of Engineering Physics, M. N. Avadhanulu, P. G. Kshirsagar, S. Chand and Company (2015).",
+        "Concepts of Modern Physics, Beiser A., Mc. Graw Hill Publishers (2003).",
+        "Optics, Ajoy Ghatak, Tata Mc Graw Hill (2012).",
+        "Materials Science and Engineering: An Introduction (Tenth edition), William D. Callister, John Wiley & Sons (2018).",
+        "Introduction to Solid State Physics, Charles Kittel, Wiley Publishers (2011)."
+    ],
+    "experiments": [],
+    "units": {
+        "Waves and Optics": [
+            "Interference: Superposition principle, coherence of light",
+            "Methods to produce coherent light: division of amplitude and wave front division",
+            "Young\u2019s double slit experiment: concept, working principle, and applications",
+            "Newton\u2019s ring: concept, working principle, and applications",
+            "Diffraction: Fraunhofer\u2019s single-slit diffraction, diffraction grating, and resolving power of a grating.",
+            "Polarization: Types of optical polarization, various methods to produce polarized light",
+            "Working and applications of retarder plates, and half-shade polarimeter: construction and working principle."
+        ],
+        "Lasers and Optical Communication": [
+            "LASER: Basic theory of LASER",
+            "Einstein\u2019s coefficients and their relations",
+            "Concept of population inversion",
+            "Components of lasers",
+            "Modes of laser beam",
+            "Construction and working principle of various types of lasers: Ruby, Helium-Neon, and semiconductor diode lasers",
+            "Optical Fibre: Optical fibre and its working principle",
+            "Total internal reflection, numerical aperture, modes of propagation",
+            "Classification of optical fibres"
+        ],
+        "Quantum Physics": [
+            "Origin of quantum theory and related experiments: Black-Body radiation, photo-electric effect, and Compton effect",
+            "Heisenberg\u2019s uncertainty principle",
+            "de- Broglie\u2019s wave concept, phase and group velocities",
+            "Wave function, and its properties, operators",
+            "Schr\u00f6dinger\u2019s time-dependent and time-independent equations",
+            "Particle in one dimensional, infinite potential and finite potential wells",
+            "Quantum tunneling phenomena and their applications in alpha decay",
+            "Scanning tunneling microscopy (STM)"
+        ],
+        "Magnetic, Superconducting and Dielectric Materials": [
+            "Magnetic Materials: Introduction to Weiss theory of ferromagnetism",
+            "Concepts of magnetic domains",
+            "Curie transition",
+            "Hard and soft magnetic materials and their applications",
+            "Magneto-resistance, GMR, and TMR",
+            "Superconducting Materials: Introduction to superconductivity",
+            "Meissner effect, Type-I and Type-II superconductors and their applications",
+            "Dielectric Materials: Introduction to dielectrics, dielectric constant",
+            "Polarizability, frequency and temperature dependent polarization mechanism in dielectrics",
+            "Dielectric loss, and applications"
+        ],
+        "Advanced Functional Materials & NDT": [
+            "Smart Materials: Biomaterials, high-temperature materials and smart materials,"
+        ],
+        "applications of functional materials": [
+            "Nanomaterials: Introduction, classification, and properties of nanomaterials, various methods of synthesizing nanomaterials: top-down (ball milling) and bottom-up (sol-gel) approaches.",
+            "Photovoltaic Materials: Solar spectrum, photovoltaic effect, materials, structure and working principle, I-V characteristics, power conversion efficiency, quantum efficiency, emerging PV technologies, and applications",
+            "NDT: Methods of non-destructive testing"
+        ]
+    }
+}

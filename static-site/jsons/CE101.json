@@ -1,0 +1,50 @@
+{
+    "code": "CE101",
+    "name": "Engineering Mechanics",
+    "prerequisites": [],
+    "credits": 2,
+    "year": 1,
+    "semester": null,
+    "references": [
+        "J.L.Meriam, L.G. Kraige, Engineering Mechanics, Statics, John Wiley &Sons,7th Edition, 2012.",
+        "A.K. Tayal, Engineering Mechanics, Umesh Publications, 14th Edition, 2010.",
+        "S S Bhavikatti and K G Rajashekarappa, Engineering Mechanics, New Age International Publication, 4th Edition.",
+        "Dietmar Gross, Werner Hauger, Jorg Schroder, Wolfgang A. Wall, Nimal Rajapakse, Engineering Mechanics 1, Statics, Springer, 2nd Edition, 2013.",
+        "S. Timoshenko, D.H. Young, Pati Sukumar, J V Rao, Engineering Mechanics, McGraw Hill, 5th Edition."
+    ],
+    "experiments": [],
+    "units": {
+        "Introduction": [
+            "Specification of force vector",
+            "Formation of Force Vectors",
+            "Moment of Force \u2013 Cross product \u2013 Problems",
+            "Resultant of a general force system in space"
+        ],
+        "Equillibrium of force system": [
+            "Degrees of freedom - Equilibrium Equations",
+            "Degree of Constraints \u2013 Free body diagrams"
+        ],
+        "Coplanar Force Systems": [
+            "Equilibrium equations \u2013 All systems",
+            "Problems Coplanar Concurrent force system",
+            "Coplanar Parallel force system",
+            "Coplanar General force system \u2013 Point of action, Method of joints, Method of sections, Method of members."
+        ],
+        "Friction in rigid bodies": [
+            "Friction \u2013 Coulombs laws of dry friction \u2013 Limiting friction",
+            "Problems on Wedge friction",
+            "Belt Friction-problems"
+        ],
+        "Centroid & Moment of Inertia": [
+            "Centroid and M.I \u2013 Arial \u2013 Radius of Gyration",
+            "Parallel axis\u2013 Perpendicular axis theorem",
+            "Simple Problems"
+        ],
+        "Dynamics of Particles": [
+            "Introduction to kinematics",
+            "Equations of rectilinear motion",
+            "D\u2019Alembert\u2019s principle -Simple problems",
+            "Introduction to kinetics- Work and Energy"
+        ]
+    }
+}

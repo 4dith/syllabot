@@ -1,0 +1,63 @@
+{
+    "code": "CS352",
+    "name": "Computer Networks",
+    "prerequisites": [
+        "CS202"
+    ],
+    "credits": 3,
+    "year": 3,
+    "semester": 2,
+    "references": [
+        "Larry L Peterson, Bruce S Davis, Computer Networks, 5th Edition, Elsevier, 2012.",
+        "Andrew S. Tanenbaum, David J Wetherall, Computer Networks, 5th Edition, Pearson Edu."
+    ],
+    "experiments": [],
+    "units": {
+        "Introduction": [
+            "Network architecture",
+            "Protocol implementation issues",
+            "Network design",
+            "Reference models",
+            "The OSI Reference Model",
+            "The TCP/IP Model",
+            "A Comparison of the OSI and TCP/IP Models"
+        ],
+        "Datalink Layer": [
+            "Framing and error detection and correction",
+            "Sliding window protocol",
+            "Media access control",
+            "Ethernet",
+            "CSMA",
+            "Token ring",
+            "Switching",
+            "Spanning tree protocol",
+            "LANs"
+        ],
+        "Network layer": [
+            "Network layer design issues",
+            "Internet protocol (IP)",
+            "Addressing and forwarding",
+            "ARP protocols",
+            "Network address translation (NAT)",
+            "Routing algorithms",
+            "Congestion control algorithms",
+            "Internetworking"
+        ],
+        "Transport layer": [
+            "user datagram protocol (UDP)",
+            "Transmission control protocol (TCP)",
+            "TCP connection management",
+            "TCP congestion control",
+            "TCP versions",
+            "Sliding window implantation in TCP"
+        ],
+        "Application layer": [
+            "Domain name service (DNS)",
+            "Simple mail transfer protocol",
+            "File transfer protocol",
+            "World wide web",
+            "Hypertext transfer protocol",
+            "Peer to peer to networking"
+        ]
+    }
+}

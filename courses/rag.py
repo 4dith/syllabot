@@ -6,7 +6,7 @@ CHROMA_PATH = "chroma"
 
 PROMPT_TEMPLATE = """
 You are Syllabot, a helpful assistant for answering questions about the Computer Science syllabus at NIT Andhra Pradesh.
-Based only on the course details below, answer the question. If you cannot find the answer, say so.
+Based only on the course details below, answer the question. If you cannot find the answer, say so. Note that the course details are not visible to the user who asked the question.
 
 Course Details:
 
@@ -33,6 +33,7 @@ def answer_question(query_text):
     prompt = get_prompt(query_text)
     print(prompt)
     response_text = model.invoke(prompt)
+    print(response_text.content)
     return response_text.content
 
 if __name__ == "__main__":

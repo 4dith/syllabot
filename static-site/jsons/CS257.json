@@ -1,0 +1,44 @@
+{
+    "code": "CS257",
+    "name": "Database Management Systems Lab",
+    "prerequisites": [
+        "CS201",
+        "CS202",
+        "CS203",
+        "CS204",
+        "CS205"
+    ],
+    "credits": 2,
+    "year": 2,
+    "semester": 2,
+    "references": [
+        "A Silberschatz, H Korth and S Sudarshan, Database System Concepts, 7th edition, McGraw-Hill, 2010.",
+        "R Elmasri, S Navathe, Fundamentals of Database Systems, 7th edition, Pearson,",
+        "R Ramakrishnan, J Gehrke, Database Management Systems, 3rd edition, McGrawHill, 2003.",
+        "C J Date, An Introduction to Database Systems, 3rd edition, Pearson/Addison Wesley, 2003.",
+        "PLSQL accessed through: [https://www.oracle.com/in/database/technologies/appdev/plsql.html](https://www.oracle.com/in/database/technologies/appdev/plsql.html), Accessed on August 2021.",
+        "MySQL, accessed through: [https://www.mysql.com/](https://www.mysql.com/), Accessed on August 2021.",
+        "PostgreSQL, accessed through: [https://www.postgresql.org/](https://www.postgresql.org/), Accessed on August",
+        "JDBC,accessed throughgh: [https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html](https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html), Accessed on August 2021."
+    ],
+    "experiments": [
+        "Familiarization with installation of any database management system",
+        "Design a database schema and create a database through implementation of Data Definition Language commands - create, alter, drop, rename and truncate.",
+        "Querying and modifying the database using Data Manipulation Language commands -select, insert, update, delete.",
+        "Implementation of Aggregate Functions \u2013 sum, avg, min, max, count. Use group-by and having clause.",
+        "Perform join operations \u2013 natural join, equi-join, outer join, left outer join, right outer join, inner join and assess the impact of query plans on the performance of join heavy queries.",
+        "Perform set operations - union, intersection, set difference.",
+        "Implementation of corelated sub-queries and nested queries.",
+        "Creating and querying views and materialized views.",
+        "Implementation of Data Control Language commands \u2013 grant and revoke.",
+        "Implementation of Transaction Control Language commands - commit, save point, and rollback.",
+        "Implementation of PL/SQL block using variables, operators, data types, control structures.",
+        "Implementation of PL/SQL stored procedures.",
+        "Implementation of PL/SQL stored functions.",
+        "Implementation of PL/SQL cursors structures.",
+        "Implementation of PL/SQL exception handlers.",
+        "Implementation of triggers.",
+        "Implementation of an application with database connectivity for storing and retrieving information."
+    ],
+    "units": {}
+}

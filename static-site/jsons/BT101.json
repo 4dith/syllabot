@@ -1,0 +1,51 @@
+{
+    "code": "BT101",
+    "name": "BIOLOGY FOR ENGINEERS",
+    "prerequisites": [],
+    "credits": 2,
+    "year": 1,
+    "semester": null,
+    "references": [
+        "Quillin, Allison Scott Freeman, Kim Quillin and Lizabeth Allison, Biological Science, Pearson Education India, 2016.",
+        "Reinhard Renneberg, Viola Berkling and Vanya Loroch, Biotechnology for Beginners, Academic Press, 2017."
+    ],
+    "experiments": [],
+    "units": {
+        "Molecules of life": [
+            "Water and Carbon",
+            "Evolution and origin of life",
+            "Darwins theory",
+            "Diversity of life",
+            "Chemical basis of life",
+            "Nucleic acids",
+            "Amino acids and Proteins",
+            "Carbohydrates",
+            "Lipids and Membranes"
+        ],
+        "Cell structure and function": [
+            "Prokaryotic, Eukaryotic cell and Virus",
+            "Sub cellular organelles and their functions",
+            "Regulation of cellular metabolism: Cellular respiration and Fermentation",
+            "Photosynthesis",
+            "Cell division (differences between mitosis and meiosis)",
+            "Mendel\u2019s Law and Patterns of inheritance"
+        ],
+        "Gene structure and expression": [
+            "Difference between prokaryotic and eukaryotic gene structure",
+            "DNA replication, Transcription",
+            "RNA processing and Translation",
+            "Control of gene expression (lac operon)"
+        ],
+        "Applications of Biology in Engineering": [
+            "Genetic engineering (microbe, plant and animal cells for improvement)",
+            "Industrial Biotechnology (Primary and Secondary metabolites)",
+            "Environmental engineering",
+            "Biopharmaceuticals",
+            "Tissue engineering",
+            "Biomaterials",
+            "Stem cell engineering",
+            "Biosensors",
+            "Bioinformatics"
+        ]
+    }
+}

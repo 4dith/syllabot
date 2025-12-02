@@ -1,0 +1,62 @@
+{
+    "code": "CS201",
+    "name": "Data Structures and Algorithms",
+    "prerequisites": [
+        "CS101",
+        "CS102"
+    ],
+    "credits": 3,
+    "year": 2,
+    "semester": 1,
+    "references": [
+        "Data structures and Algorithms in C++, Michael T. Goodrich, R. Tamassia, and Mount, John Wiley and Sons, Second Edition, 2011.",
+        "Data structures and Algorithm Analysis in C++, Mark Allen Weiss, Pearson Education. Ltd., Fourth Edition, 2014.",
+        "Data structures and algorithms in C++, Fourth Edition, Adam Drozdek, Thomson, Cengage, 2013.",
+        "Data Structures: A Pseudocode Approach with C++, Richard F. Gilberg, Behrouz A. Forouzan, Second Edition, Thomson Learning, 2004.",
+        "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein, Introduction to Algorithms, Third Edition, PHI, 2009."
+    ],
+    "experiments": [],
+    "units": {
+        "Linear Data Structures": [
+            "Abstract Data Types (ADT), Arrays and Records",
+            "Memory Layout and implementation of Stack",
+            "Queue",
+            "Linked List (Single, Double and Circular)",
+            "Applications of Stack, Queue and Linked Lists",
+            "Implementation of variants of the Stack, Queue and Linked List such as Two-way Stack, Circular Queue and Doubly Circular Linked Lists",
+            "Implementation of Stack and Queue using Linked List."
+        ],
+        "Memory Layout and Implementation of operations on Trees": [
+            "Binary Trees",
+            "Binary Search Trees",
+            "AVL trees",
+            "B-Trees",
+            "Splay Trees",
+            "Tries"
+        ],
+        "Hashing": [
+            "Open and Closed addressed tables",
+            "Design of good hash functions",
+            "Analysis of the efficiency of search operations",
+            "Bloom Filters"
+        ],
+        "Priority Queues": [
+            "Memory layout, implementation and applications of Heap",
+            "Variants of heap namely Skew Heaps, Leftist Heaps, Fibonacci Heaps and Binomial Queues."
+        ],
+        "Miscellaneous Data Structures": [
+            "Skip Lists",
+            "Disjoint sets",
+            "k-d Trees."
+        ],
+        "Graphs": [
+            "Memory representations",
+            "Depth First and Breadth First Traversals and representative applications like Topological Sorting, Finding Connected Components and Social Network Analysis."
+        ],
+        "Sorting": [
+            "Representative Internal Sorting Algorithms like Merge Sort, Quick Sort, Counting Sort, Radix and Bucket Sorts.",
+            "Analysis of efficiency of sorting, Notion of Stability in Sorting, External Sorting Algorithms.",
+            "Amortized Analysis of Data Structures: Accounting and Potential methods."
+        ]
+    }
+}

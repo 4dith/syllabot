@@ -1,0 +1,68 @@
+{
+    "code": "CS202",
+    "name": "Operating Systems",
+    "prerequisites": [],
+    "credits": 3,
+    "year": 2,
+    "semester": 1,
+    "references": [
+        "Operating Systems: Three Easy Pieces, Remzi H. Arpaci-Dusseau Andrea C. ArpaciDusseau, Arpaci-Dusseau Books, Amazon Digital Services, 2015.",
+        "xv6 a simple, Unix-like teaching operating system, Russ Cox Frans Kaashoek Robert Morris, Available From: [https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf](https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf), Accessed on: August 2021.",
+        "Operating System Concepts, Abraham Silberschatz, Peter Baer Galvin and Greg Gagne, Wiley, 10th edition, 2008."
+    ],
+    "experiments": [],
+    "units": {
+        "Processes": [
+            "Introduction to operating systems: Process abstraction, Process states, CPU Data Structures for process control",
+            "System calls for process management: fork, exec, exit, wait, open, read, write, close",
+            "Process Execution, Execution of function call, kernel/user modes, trap instruction, mechanism of context switch.",
+            "Scheduling policies: Criteria Considered for CPU Scheduling, scheduling using FIFO, SJF, STCF, RR, MLFQ methods.",
+            "Inter Process Communication: IPC, Shared Memory, Signals, Sockets, Pipes and Message Queues. Introduction to XV6.",
+            "Process Control in XV6: Process abstraction, Process state transition example. Process management system calls: Fork, Exec, Exit, Wait.",
+            "Trap handling in XV6",
+            "Scheduling and Context switching in XV6",
+            "User process creation in XV6."
+        ],
+        "Memory Management": [
+            "Introduction to virtual memory: Goals of memory virtualization",
+            "Memory allocation system calls.",
+            "Mechanism of address translation: Role of OS in translation",
+            "Segmentation",
+            "Paging: Page table, Multiple page tables",
+            "Demand paging: Page faults, Page replacement polices",
+            "Memory allocation and free space management algorithms: Variable size allocations and Fixed size allocations.",
+            "Virtual Memory and Paging in XV6, Memory management and User processes in XV6."
+        ],
+        "Concurrency": [
+            "Introduction to threads and concurrency: Single threaded process, multiple threaded process, scheduling threads, Race condition and Synchronization.",
+            "Locks: Building a lock, different types of locking mechanisms.",
+            "Condition Variables: producer-consumer problem.",
+            "Semaphores.",
+            "Concurrency bugs: non-deadlock bugs, deadlock bugs, conditions for deadlock, prevention mechanisms, deadlock avoidance, deadlock detection, recovery from deadlock.",
+            "Locking in XV6: spin locks, disabling interrupts. Sleep/wakeup functionality in XV6."
+        ],
+        "I/O and file systems": [
+            "Communication with I/O devices: Introduction to input/output devices, Interrupts, Direct Memory Access, Device driver.",
+            "Files and Directories: File abstraction, Directory tree, Hard links and soft links, mounting a file system, Memory mapping a file.",
+            "File system implementations: File system, I-node table, File Allocation Table (FAT), Virtual file system. Hard disk internals: Disk scheduling, SSTF, SCAN Algorithm, SPTF.",
+            "Device drivers and block I/O in XV6: File system and I/O in XV6, Disk blocks and buffers, Logging layer.",
+            "File system in XV6: Disk layout, in memory data structure, I-node function, creating a file, system calls: open, link, file read."
+        ],
+        "Security in Operating System": [
+            "Goals of Protection",
+            "Domain of Protection",
+            "Access Matrix, Implementation of Access Matrix",
+            "Revocation of Access Rights",
+            "Language-Based Protection",
+            "Capability-Based Systems",
+            "The Security Problem",
+            "User Authentication",
+            "Program Threats",
+            "System Threats",
+            "Securing Systems and Facilities",
+            "Intrusion Detection",
+            "Cryptography",
+            "Computer-Security Classifications."
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "code": "MA101",
+    "name": "Differential and Integral Calculus",
+    "prerequisites": [],
+    "credits": 3,
+    "year": 1,
+    "semester": 1,
+    "references": [
+        "Joel R. Hass, Maurice D. Weir, George B. Thomas, Thomas' Calculus, 12th edition, Pearson , 2010.",
+        "Erwin Kreyszig, \"Advanced Engineering Mathematics\", Eighth Edition, John Wiley and Sons, 2015",
+        "B. S. Grewal, \"Higher Engineering Mathematics\", Khanna Publications, 2015",
+        "R. K. Jain and S. R. K. Iyengar, \"Advanced Engineering Mathematics\", Fifth Edition, Narosa Publishing House, 2016.",
+        "T. M. Apostol, Calculus, Volumes 1 and 2 (2nd Edition), Wiley Eastern, 1980."
+    ],
+    "experiments": [],
+    "units": {
+        "Differential Calculus of functions of several variable": [
+            "Review of Limit, continuity (sequential verification) and differentiability",
+            "Partial differentiation",
+            "Total differentiation",
+            "Euler\u2019s theorem and generalization",
+            "Change of variables- Jacobians",
+            "Maxima and minima of functions of several variables (2 and 3 variables)",
+            "Lagrange\u2019s method of multipliers"
+        ],
+        "Integral Calculus": [
+            "Convergence of improper integrals",
+            "Beta and Gamma integrals",
+            "Differentiation under integral sign",
+            "Double and Triple integrals - computation of surface areas and volumes",
+            "Change of variables in double and triple integrals"
+        ],
+        "Vector Calculus": [
+            "Scalar and vector fields",
+            "Vector differentiation",
+            "Level surfaces",
+            "directional derivative",
+            "gradient of a scalar field",
+            "divergence and curl of a vector field",
+            "Laplacian",
+            "Line and Surface integrals",
+            "Green\u2019s theorem in a plane",
+            "Stokes\u2019 theorem",
+            "Gauss Divergence theorem"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "code": "CS101",
+    "name": "Introduction to Algorithmic Thinking and Programming",
+    "prerequisites": [],
+    "credits": 3,
+    "year": 1,
+    "semester": null,
+    "references": [
+        "Kenneth Lambert, Fundamentals of Python: First Programs, Cengage Learning, 2019",
+        "R.G. Dromey, how to solve it by Computer, Pearson, 2008."
+    ],
+    "experiments": [],
+    "units": {
+        "Fundamentals of Computers": [
+            "Historical perspective, Early computers, Modern Computers",
+            "Hardware Components of a Computer",
+            "Data Representation in Computers",
+            "Introduction to Operating Systems, Software and Firmware",
+            "Problems, Flowcharts, Memory, Variables, Values, Instructions, Programs."
+        ],
+        "Problem solving techniques": [
+            "Algorithmic approach",
+            "Characteristics of algorithms",
+            "Problem solving strategies: Top-down approach, Bottom-up approach",
+            "Time and space complexities of algorithms, Algorithm Analysis"
+        ],
+        "Basic Syntax in Python": [
+            "Data Types, Variables, Assignments, immutable variables, Types of Operators, Expressions, Comments, Boolean Logic, Logical Operators in Python.",
+            "Conditional statements - If-else",
+            "Loops - while, for",
+            "Lazy Evaluation",
+            "Inbuilt Data Structures and their operations in Python: List, Tuples and Dictionaries"
+        ],
+        "Fundamental Algorithms": [
+            "Swapping variables",
+            "Problems involving summation of a series",
+            "Sine function computation",
+            "Base Conversion",
+            "Generation of sequences like Fibonacci",
+            "Reversing the digits of an integer",
+            "Character to number conversion",
+            "Factoring Methods: Finding the square root, smallest divisor of an integer, greatest common divisor using Euclid\u2019s algorithm, prime factors of an integer",
+            "Generating prime numbers",
+            "Raising a number to a large power",
+            "Computation of the nth Fibonacci number"
+        ],
+        "Functions": [
+            "Modular programming and benefits",
+            "User defined functions, library functions, parameter passing, Formal and Actual arguments, named arguments return values",
+            "Recursion"
+        ],
+        "Sorting algorithms": [
+            "Bubble, Selection and Insertion sorts"
+        ],
+        "Search algorithms": [
+            "Linear and binary search"
+        ],
+        "String processing": [
+            "Algorithms for implementing String functions like Strlen, Strcpy, StrRev, Strcmp",
+            "Searching for a keyword or pattern in a text"
+        ],
+        "File and Directory Handling": [
+            "Reading and Writing to/from a file",
+            "Formatted File creation and operations"
+        ],
+        "Simple 2D Graphics": [
+            "Drawing 2D objects using Turtle Graphics."
+        ]
+    }
+}

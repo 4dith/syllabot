@@ -1,0 +1,30 @@
+{
+    "code": "PH102",
+    "name": "Engineering Physics Lab",
+    "prerequisites": [],
+    "credits": 2,
+    "year": 1,
+    "semester": null,
+    "references": [
+        "Physics Laboratory Manual, School of Sciences (Physics), National Institute of Technology Andhra Pradesh (2020).",
+        "Practical Physics (Electricity, Magnetism, and Electronics), R. K. Shukla, A Srivastava, New age international publishers (2011).",
+        "B.Sc. Practical Physics, C. L. Arora, S. Chand & Co. Ltd. (2012)."
+    ],
+    "experiments": [
+        "Determination of Planck\u2019s constant using light emitting diode.",
+        "Determination of wavelength of monochromatic light in Newton\u2019s ring experiment.",
+        "Determination of the width of narrow slit by diffraction method.",
+        "Determination of wavelength of He-Ne laser using diffraction by a metal scale.",
+        "Determination of capacitance and time constant of a capacitor using R-C circuit.",
+        "Determination of wavelength of mercury spectrum by normal incidence method (diffraction grating).",
+        "Determination of specific rotation of an optically active material-using Laurent\u2019s half-shade polarimeter",
+        "Determination of resonating frequency and bandwidth of an LCR circuit.",
+        "Determination of dielectric constant of various dielectric materials.",
+        "Studying B-H curve loop and permeability of magnetic materials.",
+        "Measuring spatial distribution of magnetic field between a pair of identical coils using Helmholtz coils.",
+        "Studying current-voltage characteristics of a photovoltaic material using solar cell.",
+        "Determination of numerical aperture of an optical fibre.",
+        "Determination of resistivities of various materials using four-probe method"
+    ],
+    "units": {}
+}

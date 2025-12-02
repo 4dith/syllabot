@@ -1,0 +1,54 @@
+{
+    "code": "EA151",
+    "name": "Health Education",
+    "prerequisites": [],
+    "credits": 1,
+    "year": 1,
+    "semester": null,
+    "references": [],
+    "experiments": [],
+    "units": {
+        "Health Education & Personal Hygiene": [
+            "Introduction & Meaning of Health Education",
+            "Definition of Health Education",
+            "Principles of Health Education",
+            "Importance of Health Education",
+            "Meaning of Personal Hygiene",
+            "Importance of Personal Hygiene",
+            "Personal cleanliness (teeth, ears, eyes, nose & throat, nails & fingers, skin, cloths, and hair)"
+        ],
+        "Nutrition": [
+            "Introduction of Nutrition",
+            "Balanced Diet",
+            "Daily Energy Requirements",
+            "Nutrient Balance",
+            "Nutritional Intake",
+            "Eating and Competition",
+            "Ideal Weight"
+        ],
+        "First Aid & Injury Management": [
+            "Introduction",
+            "Types and Principles of First Aid",
+            "Functions of First Aider",
+            "Reasons for Sports Injuries",
+            "The First Aid and Emergency Treatment in Various cases ( drowning, dislocation & fractures, burns, electric shock, animal bite, snake bite, poison, etc.)"
+        ],
+        "Human Posture": [
+            "Introduction",
+            "Meaning of Posture",
+            "Types of Good Posture",
+            "Causes of Poor Posture",
+            "Preventive and Remedial Poor Posture",
+            "Common Postural Deformities",
+            "Body Types",
+            "Advantages of Good Posture"
+        ],
+        "Yoga": [
+            "Introduction",
+            "Meaning & Importance of Yoga",
+            "Elements of Yoga",
+            "Introduction - Asanas, Pranayama, Meditation & Yogic Kriyas, Yoga for concentration & related Asanas (standing asanas, sitting asanas, supine and prone postures.)",
+            "Relaxation Techniques for improving concentration \u2013 Yoga \u2013 nidra, Pranayama"
+        ]
+    }
+}

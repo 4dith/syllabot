@@ -1,0 +1,17 @@
+{
+    "code": "ME103",
+    "name": "Workshop Practice",
+    "prerequisites": [],
+    "credits": 2,
+    "year": 1,
+    "semester": null,
+    "references": [],
+    "experiments": [
+        "Fitting Shop: Preparation of T-Shape Work piece as per the given specifications, Preparation of U-Shape Work piece which contains: Filing, Sawing, Drilling, Grinding, and Practice marking operations.",
+        "Machine shop: Study of machine tools in particular Lathe machine (different parts, different operations, study of cutting tools), Demonstration of different operations on Lathe machine, Practice of Facing, Plane Turning, step turning, taper turning, knurling and parting and Study of Quick return mechanism of Shaping operation. Demonstration of the working of CNC and 3D Printing Machines.",
+        "Power Tools: Study of different hand operated power tools, uses and their demonstration and Practice of Power tools.",
+        "Carpentry: Study of Carpentry Tools, Equipment and different joints, Practice of Cross Half lap joint, half lap Dovetail joint and Mortise Tenon Joint.",
+        "Welding: Study of welding tools and welding equipment, Arc Welding Practice (Lap and Butt joint)."
+    ],
+    "units": {}
+}

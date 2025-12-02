@@ -1,0 +1,81 @@
+{
+    "code": "CS252",
+    "name": "Design and Analysis of Algorithms",
+    "prerequisites": [
+        "CS101",
+        "CS102",
+        "CS201",
+        "CS203",
+        "CS204"
+    ],
+    "credits": 3,
+    "year": 2,
+    "semester": 2,
+    "references": [
+        "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein, Introduction to Algorithms, Third Edition, PHI, 2009.",
+        "Michael T. Goodrich and Roberto Tamassia, Algorithm Design: Foundations, Analysis and Internet Examples, Second Edition, Wiley-India, 2006.",
+        "Ellis Horowitz, Sartaj Sahni and Sanguthevar Rajasekaran, Fundamentals of Computer Algorithms, Second Edition, Universities Press, 2011.",
+        "Gilles Brassard and Paul Bratley, Fundamentals of Algorithmics, First Edition, PHI,",
+        "S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani, Algorithms, First Edition, McGraw Hill Education, 2006.",
+        "Sara Baase, Computer algorithms: Introduction to Design and Analysis, Second Edition, Addison Wesley publication, 1998."
+    ],
+    "experiments": [],
+    "units": {
+        "Introduction to Algorithm Design and Analysis": [
+            "Asymptotics",
+            "Correctness Proofs for Algorithms"
+        ],
+        "Divide and Conquer Algorithms": [
+            "Solving Recurrences",
+            "Recurrence Trees",
+            "Substitution method",
+            "Master\u2019s Theorem",
+            "Merge Sort, Quick Sort and Randomized Quicksort with their analyses",
+            "Maximum sub-array problem",
+            "Linear time Selection",
+            "Strassen\u2019s Matrix Multiplication",
+            "Multiplication of Large integers"
+        ],
+        "Greedy Algorithms": [
+            "Design scenarios calling for a greedy design",
+            "Making Change problem",
+            "Activity Selection Problem",
+            "Fractional Knapsack problem",
+            "Prim\u2019s and Kruskal\u2019s algorithms for Minimum Spanning Tree construction",
+            "Dijkstra\u2019s algorithm for finding single source shortest paths"
+        ],
+        "Dynamic Programming": [
+            "Design scenarios calling for a dynamic programming design",
+            "Chained Matrix Multiplication problem",
+            "0/1 Knapsack problem",
+            "Travelling Salesperson Problem",
+            "Optimal Binary Search Tree",
+            "Floyd Warshall\u2019s Algorithm",
+            "Vertex Cover of a Tree"
+        ],
+        "Backtracking": [
+            "N-Queen\u2019s problem",
+            "Enumeration of Independent Sets of a problem",
+            "Graph Coloring problem",
+            "Robotic path finding problem in an unknown terrain"
+        ],
+        "Branch and Bound": [
+            "Traveling Salesman Problem (TSP)",
+            "Set Cover",
+            "0/1 Knapsack problem."
+        ],
+        "String algorithms": [
+            "KMP Algorithm",
+            "Boyer Moore Algorithm",
+            "Rabin-Karp Algorithm"
+        ],
+        "Flow-based Algorithms": [
+            "Max-flow Min-cut theorem",
+            "Augmenting paths and finding mincuts"
+        ],
+        "Complexity classes": [
+            "P, NP, NP-Complete and NP-Hard",
+            "Standard reductions"
+        ]
+    }
+}

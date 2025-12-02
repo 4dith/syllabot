@@ -1,0 +1,78 @@
+{
+    "code": "ME101",
+    "name": "Basics of Mechanical Engineering",
+    "prerequisites": [],
+    "credits": 2,
+    "year": 1,
+    "semester": null,
+    "references": [
+        "Dixit, U.S., Hazarika, M. and Davim, J.P, A Brief History of Mechanical Engineering, Springer, 2017.",
+        "M.L. Mathur, F.S. Mehta and R.P. Tiwari, R.S. Vaishwnar, Elements of Mechanical Engineering, Jain Brothers, New Delhi, 2008.",
+        "Praveen Kumar, Basic Mechanical Engineering, Pearson Education, India, 2013.",
+        "P.N. Gupta, M.P. Poonia, Elements of Mechanical Engineering, Standard Publishers,",
+        "C.P. Gupta, Rajendra Prakash, Engineering Heat Transfer, NemChand Brothers, New Delhi, 1994.",
+        "B.S. Raghuvanshi, Workshop Technology, Vol. 1&2, Dhanpath Rai & Sons, New Delhi, 1989."
+    ],
+    "experiments": [],
+    "units": {
+        "Evolution of Mechanical Engineering": [
+            "Definition and scope of Mechanical Engineering",
+            "Relation of Mechanical Engineering with other Engineering Disciplines",
+            "Revolutionary Inventions in wheels, tools, windmills, steam engine, CNC machines, Rapid Prototyping, Air-conditioning and Refrigeration",
+            "History of Mechanics, Thermodynamics and Heat Transfer, Production and Industrial Engineering, Mechatronics"
+        ],
+        "Engineering Materials": [
+            "Introduction to Engineering Materials",
+            "Classification and Properties, Alloys",
+            "Composites, Micro and Nano Materials"
+        ],
+        "Manufacturing Processes": [
+            "Castings - Patterns & Moulding",
+            "Metal forming",
+            "Hot Working and Cold Working Extrusion",
+            "Drawing",
+            "Rolling",
+            "Forging",
+            "Welding - Arc Welding & Gas Welding",
+            "Soldering",
+            "Brazing",
+            "Introduction to Machining processes \u2013 Lathe, Milling, Shaping, Drilling, Grinding, Introduction to NC/CNC Machines, 3D Printing."
+        ],
+        "Power Transmission": [
+            "Transmission of Power",
+            "Belt Drives",
+            "Gears and Gear Trains - Simple Problems",
+            "Fasteners - Types and Applications",
+            "Bearings - Types and Selection"
+        ],
+        "Thermodynamics": [
+            "Introduction to Energy Sources",
+            "Thermodynamics - System, State, Properties",
+            "Thermodynamic Equilibrium",
+            "Process & Cycle",
+            "Zeroth law of Thermodynamics",
+            "Work & Heat",
+            "First law - Cyclic process, Change of State",
+            "Cp, Cv",
+            "Limitations of First law",
+            "Thermal Reservoirs",
+            "Heat Engine",
+            "Heat Pump/Refrigerator",
+            "Efficiency/COP",
+            "Second law",
+            "PMM2",
+            "Carnot Cycle",
+            "Entropy - T-S and P-V diagrams."
+        ],
+        "Introduction to Steam Turbines and I.C. Engines": [
+            "I.C. Engines: 2-Stroke & 4-Stroke Engines, P-v Diagram",
+            "S.I. Engine, C.I. Engine, Differences."
+        ],
+        "Introduction to Heat Transfer and Refrigeration": [
+            "Vapor Compression Refrigeration Cycle - Refrigerants, Desirable Properties of Refrigerants.",
+            "Modes of Heat Transfer",
+            "Thermal Resistance Concept",
+            "Composite Walls & Cylinders, and Overall Heat Transfer Coefficient \u2013 problems."
+        ]
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "code": "CS402",
+    "name": "Big Data Engineering",
+    "prerequisites": [
+        "CS201",
+        "MA204",
+        "CS255"
+    ],
+    "credits": 4,
+    "year": 4,
+    "semester": 1,
+    "references": [
+        "Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman, \u201cMining of Massive Datasets\u201d, Cambridge Universities Press, 3rd ed, 2020.",
+        "David Loshin, \u201cBig Data Analytics: From Strategic Planning to Enterprise Integration with Tools, Techniques, NoSQL, and Graph\u201d, Elsevier, August 23, 2013.",
+        "Tom White, \u201cHadoop: The Definitive Guide: Storage and Analysis at Internet Scale\u201d, Orielly, 4th Edition, 2015.",
+        "Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills, \u201cAdvanced Analytics with Spark: Patterns for Learning from Data at Scale\u201d, Orielly, 2015.",
+        "Dan Sullivan, \u201cNoSQL for Mere Mortals\u201d, Addison-Wesley, 2015",
+        "[https://spark.apache.org/docs/latest/api/python/pyspark.html](https://spark.apache.org/docs/latest/api/python/pyspark.html)",
+        "[https://github.com/adamjshook/mapreducepatterns](https://github.com/adamjshook/mapreducepatterns)",
+        "[https://spark.apache.org/mllib/](https://spark.apache.org/mllib/)"
+    ],
+    "experiments": [
+        "Install Hadoop as single node and multi node cluster.",
+        "Implement Map Reduce algorithm Word Count to be executed on the cluster with voluminous input data.",
+        "Implement Page Rank on a large web graph. (Map Reduce or Spark)",
+        "Implement optimized join operations on Spark (multi way and skew-aware joins)",
+        "Perform exploratory data analysis and visualization using Spark and MLlib.",
+        "Build supervised models using Spark and MLlib.",
+        "Build unsupervised models using Spark and MLlib.",
+        "Count triangles in a given graph using Neo4j.",
+        "Find a minimum spanning tree of a given graph using Neo4j.",
+        "Estimate moments of a data stream using Apache Kafka and Spark streaming.",
+        "Count distinct elements of a data stream Apache Kafka and Spark streaming."
+    ],
+    "units": {
+        "Big Data \u2013 An Introduction": [
+            "Big Data - Definition",
+            "An overview of Big Data",
+            "HPC & Big Data",
+            "Big Data Characteristics",
+            "Issues, and challenges of Big Data",
+            "Big data Technological approaches",
+            "Potential use cases for Big Data"
+        ],
+        "MapReduce and the New Software Stack": [
+            "Hadoop Framework",
+            "Hadoop echo system",
+            "Distributed File Systems (HDFS and YARN)",
+            "MapReduce",
+            "Algorithms Using MapReduce",
+            "Matrix-vector multiplication",
+            "Matrix multiplication",
+            "Relational Algebra operations",
+            "Join operations: optimization for join operations",
+            "Theta join",
+            "Skew aware join",
+            "Extensions to MapReduce",
+            "The Communication-Cost Model",
+            "Complexity Theory for MapReduce"
+        ],
+        "Exploratory Data Analysis": [
+            "Visual data analysis techniques",
+            "Interaction, techniques, Systems and applications"
+        ],
+        "In memory processing": [
+            "Apache Spark",
+            "RDD programming",
+            "Spark SQL",
+            "Datasets and Dataframes",
+            "SparkML"
+        ],
+        "Machine Learning for Big Data": [
+            "Selecting",
+            "Extracting and Transforming features",
+            "Basic statistics",
+            "ML pipelines",
+            "Supervised and Unsupervised models",
+            "Model selection and tuning"
+        ],
+        "NoSQL": [
+            "CAP Theorem",
+            "Birth of NoSQL",
+            "Key-value databases",
+            "Document databases",
+            "Graph Databases",
+            "Column Databases",
+            "Distributed Data bases: Mango DB, Hive, Cassandra"
+        ],
+        "Stream processing": [
+            "Introduction to Streams Concepts",
+            "Stream Data Model and Architecture",
+            "Sampling Data in a Stream",
+            "Filtering Streams",
+            "Algorithms for streams such as Counting Distinct Elements in a Stream",
+            "Estimating Moments",
+            "Counting Ones in a Window",
+            "Decaying Window"
+        ]
+    }
+}

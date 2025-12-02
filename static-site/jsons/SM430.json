@@ -1,0 +1,66 @@
+{
+    "code": "SM430",
+    "name": "Entrepreneurship for Engineers",
+    "prerequisites": [],
+    "credits": 3,
+    "year": 4,
+    "semester": 1,
+    "references": [
+        "B.D.Singh. Managing Conflict and Resolution. Excel Books.2008",
+        "B. R. Barringer and D. Ireland, Entrepreneurship, Prentice Hall, 2009.",
+        "G. Kawasaki, L. Filby, The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything , Penguin, 2015.",
+        "R. Bansal, Connect the Dots, Westland, 2011.",
+        "Ries, Eric The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, Crown Business, 2011.",
+        "S. S. Khanka, Entrepreneurial Development, S.Chand &Co. 2006.",
+        "S. Blank and B. Dorf, Startup Owner's Manual: The Step-By- Step Guide for Building a Great Company, K&S Ranch Publishing, 2012"
+    ],
+    "experiments": [],
+    "units": {
+        "The Early Career Dilemmas of an Entrepreneur": [
+            "Discover ourselves",
+            "The Entrepreneur\u2019s Role, Task and Personality",
+            "A Typology of Entrepreneurs",
+            "Defining Survival and Success",
+            "Entrepreneurship as a Style of Management",
+            "The Entrepreneurial Venture and the Entrepreneurial Organisation",
+            "Identify Problems Worth Solving",
+            "Customer Identification",
+            "Choosing a Direction",
+            "Opportunity recognition and entry strategies",
+            "Business model identification",
+            "Validation",
+            "New product Franchising",
+            "Partial Momentum",
+            "Sponsorship an Acquisition",
+            "The Strategic Window of Opportunity",
+            "Scanning-Positioning and Analysing",
+            "Intellectual Property-Creation and Protection"
+        ],
+        "Gaining Commitment": [
+            "Gathering the Resources",
+            "The Business Plan as an Entrepreneurial Tool",
+            "Financial Projections: how to do them the right way",
+            "Debt",
+            "Venture Capital and other forms of Financing",
+            "Sources of External Support",
+            "Developing Entrepreneurial Marketing",
+            "Competencies",
+            "Networks and Frameworks",
+            "Sustaining Competitiveness",
+            "Maintaining Competitive Advantage",
+            "The Changing Role of the Entrepreneur",
+            "Mid-Career Dilemmas",
+            "Harvesting Strategies versus Go for Growth"
+        ],
+        "Characteristics and special needs": [
+            "Business/project planning",
+            "Business Plan preparation",
+            "Implementation Process",
+            "Planning support systems (enterprise operation)",
+            "Legal Issues (licensing, patents, contracts etc.)",
+            "Effectuation and Causation",
+            "Art of negotiation",
+            "Conflict Management."
+        ]
+    }
+}

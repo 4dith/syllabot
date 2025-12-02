@@ -1,0 +1,109 @@
+{
+    "code": "HS101",
+    "name": "ENGLISH FOR TECHNICAL COMMUNICATION",
+    "prerequisites": [],
+    "credits": 3,
+    "year": 1,
+    "semester": null,
+    "references": [
+        "Emden, Joan van. Effective Communication for Science and Technology. Macmillan Education UK, 2001.",
+        "Mohan, Krishna and Meera Banerji. Developing Communication Skills. Macmillan India Limited, 2000.",
+        "Murphy, Raymond. Intermediate English Grammar. Cambridge University Press, 2014.",
+        "Narayanaswami, V. R. Strengthen Your Writing. Orient Longman Private Limited, 2005.",
+        "Soundaraj, Francis. Speaking and Writing for Effective Business Communication. Macmillan Publishers India Limited, 2007.",
+        "Ur, Penny. Discussions that Work. Cambridge University Press, 1981.",
+        "Aarts, Bas. Oxford Modern English Grammar. Oxford University Press, 2011.",
+        "Anderson, Marilyn, Pramod K. Nayar, and Madhucchanda Sen. Critical Thinking, Academic Writing and Presentation Skills. Pearson Education, 2008.",
+        "Blake,Gary.The Elements of Technical Writing. Pearson,2000",
+        "Brown, Carla L. Essential Delegation Skills. Routledge, 2017.",
+        "Busan, Tony. Mind Map Mastery. Walkins, 2018.",
+        "Carlisle, Joanne and Melinda S. Rice. Improving Reading Comprehension Researchbased Principles and Practices. York Press, 2002.",
+        "Carter, Ronald and Michael McCarthy. Cambridge Grammar of English: A Comprehensive Guide. Cambridge University Press, 2006.",
+        "Carter, Ronald, Rebecca Hughes, and Michael McCarthy. Exploring Grammar in Context: Upper-intermediate and Advanced. Cambridge University Press, 2000.",
+        "Eastwood, John. Oxford Guide to English Grammar. Oxford University Press, 1994.",
+        "Harris, David.F. Complete Guide to Writing Questionnaires. I& M Press, 2014.",
+        "Hering, Lutz and Heike Hering. How to Write Technical Reports: Understandable Structure, Good Design, Convincing Presentation. Springer; 2010.",
+        "HuckinN.Thomas and Leslie A.OlsenTechnical Writing and Professional Communication for Non-native Speakers. McGraw-Hill Education,1991.",
+        "Laplante, Phillip A. Technical Writing: A Practical Guide for Engineers, Scientists, and Nontechnical Professionals. CRC Press, 2018.",
+        "McQuail, Dennis. Audience Analysis. Sage, 1997",
+        "Ogden, Richard. Introduction to English Phonetics. Edinburgh University Press, 2017.",
+        "Parker, Glenn M. Team Players and Teamwork: New Strategies for Developing Successful Collaboration. Wiley, 2011.",
+        "Seely, John. Oxford Guide to Effective Writing and Speaking: How to Communicate"
+    ],
+    "experiments": [],
+    "units": {
+        "Grammar Principles and Vocabulary Building": [
+            "Tenses",
+            "Active and passive voice - their usage",
+            "Concord (Subject Verb Agreement)",
+            "Error Detection",
+            "Idioms and Phrases",
+            "Phrasal verbs\u2014their meanings and usage",
+            "Synonyms and antonyms"
+        ],
+        "Developing paragraphs using mind mapping": [
+            "Definition",
+            "Structure",
+            "Types and Composition",
+            "Unity of theme",
+            "Coherence",
+            "Organization patterns",
+            "Essays and their structure",
+            "Note-making"
+        ],
+        "Letter Writing": [
+            "Formal letters",
+            "Communicative purpose",
+            "Strategy",
+            "Letter format and mechanics",
+            "Letters of request, complaint and invitation",
+            "Writing emails"
+        ],
+        "Reading Comprehension": [
+            "Skimming",
+            "Scanning",
+            "Intensive and extensive reading",
+            "Reading to retrieve information",
+            "Techniques of comprehension",
+            "Find clues to locate important points",
+            "Answering objective type questions\u2013inference, elimination"
+        ],
+        "Delegation": [
+            "Steps involved in delegation",
+            "Preparing delegation for a program"
+        ],
+        "Preparing Questionnaire": [
+            "Determine audience and content of each question",
+            "Response structure",
+            "Develop wording for each question",
+            "Establish sequence of questions"
+        ],
+        "Profiling Readers": [
+            "Audience analysis",
+            "Identifying potential audience",
+            "Identifying primary, secondary, tertiary readers,and gatekeepers",
+            "Identifying the needs, values, and attitude of the readers"
+        ],
+        "Resume Writing": [
+            "Writing for Professional Networking",
+            "Academic writing",
+            "Research proposals",
+            "Interpretation of Graphs."
+        ],
+        "Technical Report-Writing": [
+            "Kinds of reports - proposals, progress and final reports: their structure, features",
+            "Process of writing a report",
+            "Editing"
+        ],
+        "Language Laboratory": [
+            "Introduction to basic phonetics: Vowels, Consonants, Diphthongs, phonetic symbols",
+            "Listening: Challenges in listening, enhancing listening skills, listening activities",
+            "Speaking: JAM using cue cards, role play",
+            "Group presentation-presentation with emphasis on body language",
+            "Public speaking - extempore speech",
+            "Group discussion: Dos and don\u2019ts, intensive practice",
+            "Mock interview : Interview etiquette, common interview questions"
+        ],
+        "Clearly. Oxford University Press: 2013.": []
+    }
+}

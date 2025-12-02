@@ -1,0 +1,27 @@
+{
+    "code": "CY102",
+    "name": "Engineering Chemistry Lab",
+    "prerequisites": [],
+    "credits": 2,
+    "year": 1,
+    "semester": null,
+    "references": [
+        "Charles Corwin, Introductory Chemistry laboratory manual: Concepts and Critical Thinking, Pearson Education, 2012.",
+        "David Collins, Investigating Chemistry: Laboratory Manual, Freeman & Co., 1st Edition, 2006."
+    ],
+    "experiments": [
+        "Standardization of KMnO4 solution",
+        "Determination of Iron in Haematite",
+        "Determination of Hardness of Water",
+        "Determination of available chlorine in bleaching powder and of iodine in Iodized salt",
+        "pH-metric titration of an acid vs a base",
+        "Conductometric titration of an acid vs a base",
+        "Potentiometric titration of Fe2+ against K2Cr2O7",
+        "Colorimetric determination of Potassium Permanganate",
+        "Determination of rate of Corrosion of mild steel in acidic environment in the absence of presence of an inhibitor",
+        "Determination of Chlorophyll in Olive oil by using UV and Fluorescence spectroscopic techniques",
+        "Functional group analysis of organic compounds by using IR spectroscopic technique",
+        "Organic solvent evaporation by using rotary-evaporation technique"
+    ],
+    "units": {}
+}

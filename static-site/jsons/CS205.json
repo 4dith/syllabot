@@ -1,0 +1,28 @@
+{
+    "code": "CS205",
+    "name": "Operating Systems Lab",
+    "prerequisites": [
+        "CS101",
+        "CS102"
+    ],
+    "credits": 2,
+    "year": 2,
+    "semester": 1,
+    "references": [
+        "Advanced Programming in the UNIX Environment, Richard Stevens, Stephen Rago, Addison Wesley, Third edition, 2013.",
+        "Operating Systems: Three Easy Pieces, Remzi H. Arpaci-Dusseau Andrea C. Arpaci Dusseau, Arpaci-Dusseau Books, Amazon Digital Services, 2015.",
+        "xv6 a simple, Unix-like teaching operating system, Russ Cox Frans Kaashoek Robert Morris, Available From: [https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf](https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf), Accessed on: August 2021.",
+        "Operating System Concepts, Abraham Silberschatz, Peter Baer Galvin and Greg Gagne, Wiley, 10th edition, 2008."
+    ],
+    "experiments": [
+        "Write Command Interpreter Programs which accepts some basic Unix commands and displays the appropriate result. Each student should write programs for at least six commands.",
+        "Study the concept of Signals and write a program for Context Switching between two processes using alarm signals.",
+        "Write a program to do memory management (allocation/freeing) for fixed chunk sizes using a larger chunk of memory allocated using mmap builtin function. Extend it to manage dynamic memory allocation as done with heap memory.",
+        "Study pthreads and implement the following: Write a program which shows the performance improvement in using threads as compared with process. (Exampleslike Matrix Multiplication, Hyper quicksort, Merge sort, Traveling Salesperson problem).",
+        "Create your own thread library, which has the features of pthread library by using appropriate system calls (UContext related calls). Containing functionality for creation, termination of threads with simple round robin scheduling algorithm and synchronization features.",
+        "Implement all CPU Scheduling Algorithms using your thread library",
+        "Study the concept of Synchronization and implement the classical synchronization problems using Semaphores, Message queues and shared memory (minimum of 3 problems)",
+        "A complete file system implementation inside a disk image file."
+    ],
+    "units": {}
+}

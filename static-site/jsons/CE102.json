@@ -1,0 +1,56 @@
+{
+    "code": "CE102",
+    "name": "ENVIRONMENTAL SCIENCE AND ENGINEERING",
+    "prerequisites": [],
+    "credits": 2,
+    "year": 1,
+    "semester": null,
+    "references": [
+        "G.B. Masters, Introduction to Environmental Engineering and Science, Pearson Education, 2013.",
+        "Gerard Kiely, Environmental Engineering, McGraw Hill Education Pvt Ltd, Special Indian Edition, 2007.",
+        "Benny Joseph, Environmental Science and Engineering, Tata McGraw-Hill, New Delhi, 2006.",
+        "Peavy, H.S, Rowe, D.R., and G. Tchobanoglous (1985), Environmental Engineering, McGraw Hill Inc., New York",
+        "W P Cunningham, M A Cunningham, Principles of Environmental Science, Inquiry and Applications, Tata McGraw Hill, Eighth Edition, 2016."
+    ],
+    "experiments": [],
+    "units": {
+        "Introduction to Environmental Science": [
+            "Environment and Societal Problems",
+            "Major Environmental Issues",
+            "Global Climate Change Agreements, Montreal, Kyoto Protocol & Paris Agreement",
+            "Basics of Environmental Impact Assessment",
+            "Principles of Sustainability, and related indices",
+            "Population Dynamics",
+            "Urbanization",
+            "Identification and Evaluation of Emerging Environmental Issues with Air, Water, Wastewater and Solid Wastes",
+            "Introduction to Environmental Forensics."
+        ],
+        "Water & Wastewater Treatment": [
+            "Water Sources, constituents",
+            "Potable water quality requirements (IS 10500)",
+            "Overview of water treatment",
+            "Sources and types of pollutants, their effects",
+            "Self-purification capacity of water bodies",
+            "Principles of wastewater treatment",
+            "5R Concept"
+        ],
+        "Air & Noise Pollution": [
+            "Sources",
+            "Classification and their effects",
+            "National ambient air quality standards (NAAQS)",
+            "Air quality index",
+            "Dispersion of pollutants",
+            "Control of air pollution",
+            "Understanding and improving indoor air quality",
+            "Sources of noise pollution, effects",
+            "Quantification of noise pollution"
+        ],
+        "Solid Waste Management": [
+            "Sources and characteristics of solid waste, effects",
+            "3R concept",
+            "Sustainable practices in waste management",
+            "CPHEEO guidelines for solid waste management",
+            "Transition to zero waste lifestyle."
+        ]
+    }
+}

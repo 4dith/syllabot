@@ -1,0 +1,114 @@
+{
+    "code": "CS351",
+    "name": "Software Engineering",
+    "prerequisites": [],
+    "credits": 3,
+    "year": 3,
+    "semester": 2,
+    "references": [
+        "Roger S. Pressman, Software Engineering, A Practitioner\u2019s approach, McGraw Hill, 8th edition, 2014.",
+        "Ian Sommerville, \u201cSoftware Engineering\u201d, 7th edition, Pearson education.7/e, 2005.",
+        "Rajib Mall, \u201cFundamentals of Software Engineering\u201d, Third Edition, PHI Publication,",
+        "Timothy C Lethbridge, \u201cObject-Oriented Software Engineering, Practical software development using UML and Java\u201d, McGraw-Hill Education, 2nd edition, 2004.",
+        "Jeevan Kumar, \u201cGrokking the Object-Oriented Design Interview\u201d [https://akshayiyangar.github.io/system-design/](https://akshayiyangar.github.io/system-design/)",
+        "Kent Beck, Cynthia Andres, \u201cExtreme Programming Explained: Embrace Change\u201d, 2nd edition, Addison Wesley, 2004."
+    ],
+    "experiments": [
+        "Identify the requirements from the problem statement. Conduct feasibility study and validate the requirements.",
+        "Prepare the SRS document.",
+        "Estimate the project cost using project estimation techniques and complexity metrics.",
+        "Model use case diagrams and by capturing the use case scenarios from the problem statement. Model Class diagrams and Sequence diagrams. Apply forward Engineering.",
+        "Estimate the Cyclomatic complexity. Write Junit test cases. Perform test driven development for every function.",
+        "Perform automatic testing of the application."
+    ],
+    "units": {
+        "Introduction to Software Engineering, Software Process, Software life cycle models": [
+            "Waterfall Model and its Extensions",
+            "Rapid Application Development (RAD)",
+            "Spiral Model",
+            "Introduction to Agility",
+            "Agile process",
+            "Extreme programming",
+            "XP Process",
+            "Storyboarding"
+        ],
+        "Software Requirements": [
+            "Functional and Non-Functional",
+            "User requirements",
+            "System requirements",
+            "Software Requirements Document",
+            "Attributes of bad SRS documents"
+        ],
+        "Requirement Engineering Process": [
+            "Feasibility Studies",
+            "Requirements elicitation and analysis",
+            "Requirements validation",
+            "Requirements management"
+        ],
+        "Classical analysis": [
+            "Structured system Analysis",
+            "Petri Nets",
+            "Data Dictionary"
+        ],
+        "Design process": [
+            "Design Concepts",
+            "Design Model",
+            "Design Heuristic",
+            "Architectural Design",
+            "Architectural styles",
+            "Architectural Design",
+            "Architectural Mapping using Data Flow"
+        ],
+        "User Interface Design": [
+            "Interface analysis",
+            "Interface Design",
+            "Component level Design: Designing Class based components, traditional Components."
+        ],
+        "Software Design": [
+            "Approaches to software design: function-oriented design, object oriented design.",
+            "Object Modelling Using UML: Basic object orientation Concepts, Use case Model, Class diagram, Interaction diagrams, Activity Diagram, state chart Diagram, Component and Deployment diagrams.",
+            "System design examples."
+        ],
+        "Software testing": [
+            "White box testing",
+            "Black box testing",
+            "Regression Testing",
+            "Unit Testing",
+            "Integration Testing",
+            "Validation Testing",
+            "System Testing and Debugging",
+            "Test driven development",
+            "Junit",
+            "Testing applications: conventional, object-oriented, and, web.",
+            "Software configuration management: Product metrics",
+            "Assessment: Team Analysis in Metrics Calculation."
+        ],
+        "Software Implementation Techniques": [
+            "Coding practices",
+            "Refactoring",
+            "Maintenance and Reengineering",
+            "BPR model",
+            "Reengineering process model",
+            "Reverse and Forward Engineering",
+            "Version control",
+            "CI/CD"
+        ],
+        "Software Project Management": [
+            "LOC Estimation",
+            "FP Based Estimation",
+            "COCOMO I & II Model",
+            "Project Scheduling",
+            "Earned Value Analysis Planning",
+            "Project Plan",
+            "Planning Process",
+            "RFP Risk Management",
+            "Identification",
+            "Projection",
+            "Risk Management",
+            "Risk Identification",
+            "Risk Mitigation",
+            "RMMM Plan",
+            "CASE TOOLS"
+        ]
+    }
+}

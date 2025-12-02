@@ -1,0 +1,79 @@
+{
+    "code": "CS254",
+    "name": "Theory of Computation",
+    "prerequisites": [],
+    "credits": 3,
+    "year": 2,
+    "semester": 2,
+    "references": [
+        "John E. Hopcroft, Rajeev Motwani, Jeffrey D Ullman, Introduction to Automata Theory, Languages and Computation, Second Edition, Pearson, 2001.",
+        "Michael Sipser, Introduction to Theory of Computation, Third Edition, Course Technology, 2012.",
+        "Automata and Computability, Dexter C. Kozen, First Edition, Springer Publishers,",
+        "Elements of the Theory of Computation, H. R. Lewis and C.H. Papadimitriou, First Edition, Prentice Hall Publishers, 1981.",
+        "J. Martin, Introduction to Languages and the Theory of computation, Third Edition, Tata Mc Graw Hill, 2007.",
+        "Peter Linz, An Introduction to Formal Languages and Automata, Sixth Edition, Jones & Bartlett Learning, 2017."
+    ],
+    "experiments": [],
+    "units": {
+        "Finite State Automata (FSA)": [
+            "Alphabets, Strings, Languages",
+            "Deterministic FSA (DFSA)",
+            "Non-deterministic FSA (NFSA) with Epsilon-Transitions",
+            "Uses of \u2208 Transitions",
+            "Regular expressions",
+            "Finite Automata and Regular Expressions",
+            "Conversion among Regular Expressions, DFSA and NFSA",
+            "Applications of Regular Expressions",
+            "Applications of Regular Expressions in UNIX and Lexical Analysis",
+            "Algebraic Laws for Regular Expressions",
+            "Laws Involving Closures",
+            "Subset Construction Algorithm",
+            "FSA Minimization",
+            "Regular Languages and properties",
+            "Pumping Lemma",
+            "Myhill-Nerode Theorem"
+        ],
+        "Context Free Grammars": [
+            "Derivations Using a Grammar",
+            "Leftmost and Rightmost Derivations",
+            "The Language of a Grammar",
+            "Sentential Forms",
+            "Parse Trees",
+            "Eliminating useless symbols",
+            "Applications of Context-Free Grammars",
+            "Parsers",
+            "The YACC Parser Generator",
+            "Ambiguity in Grammars and Languages, Ambiguous Grammars",
+            "Removing Ambiguity from Grammars",
+            "Normal Forms: Chomsky Normal Form and Greibach Normal Form",
+            "Chomsky Hierarchy",
+            "Context Free Languages (CFLs), properties",
+            "Pumping Lemma for CFLs",
+            "CYK Algorithm"
+        ],
+        "Push Down Automata (PDA)": [
+            "Definition, Instantaneous Descriptions of a PDA",
+            "The Languages of a PDA",
+            "Acceptance by Final State",
+            "Acceptance by Empty Stack",
+            "Equivalence of PDAs and CFGs",
+            "Deterministic Context Free Languages"
+        ],
+        "Turing Machines (TMs)": [
+            "Definition, Instantaneous Descriptions for the Turing Machines",
+            "Transition Diagrams for Turing Machines",
+            "The Language of a Turing Machine",
+            "Turing Machines and Halting",
+            "Configurations: TM as a computing device and as a recognition device.",
+            "Programming Techniques for Turing Machines: Storage in the State, Multiple Tracks, Shifting Over, Subroutines",
+            "Extensions to the Basic Turing-Machines",
+            "Multiple Turing Machines",
+            "Computable Functions",
+            "Multi-Tape Turing Machines",
+            "Linear Bounded Automata",
+            "Recursive and recursively enumerable languages",
+            "Undecidability of Halting Problem",
+            "Reductions, Theory of NP Completeness"
+        ]
+    }
+}

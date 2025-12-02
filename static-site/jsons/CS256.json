@@ -1,0 +1,32 @@
+{
+    "code": "CS256",
+    "name": "Unix Tools and Shell Scripting Lab",
+    "prerequisites": [
+        "CS202",
+        "CS205"
+    ],
+    "credits": 2,
+    "year": 2,
+    "semester": 2,
+    "references": [
+        "Sumitabha Das, Unix Concepts and Applications, TMH, 4th edition, 2008.",
+        "John R Levine, Tony Mason, Doug Brown, Lex and Yacc, Orielly, 2nd edition, 2009."
+    ],
+    "experiments": [
+        "Explore different options for the following Unix Commands using man: at, banner, batch, bc, cal, cat, cd, cmp, comm, chmod, chown, chgrp, cp, cron, cut, date, dd, diff, echo, finger, find, ftp, head, kill, lock, ln, ls, lp, lpstat, man, mesg, mkdir, more, mv, nl, nice, passwd, pr, paste, ping, ps, pwd, rcp, rlogin, rmdir, rm, rsh, split, sort, tail, talk, tar, telnet, touch, tput, tr, tty, uname, uniq, wc, who, write",
+        "Write shell script for Pattern matching using wild cards, escaping, quoting, iterations, and if then else constructs.",
+        "Write shell script for searching for various patterns using grep, pr, head, tail, cut, paste, sort, uniq, and tr.",
+        "Write shell script for pattern matching using awk, and sed utilities.",
+        "Write shell script for backup using tar and cpio.",
+        "Write a make script with dependencies for compiling a static link library/dynamic link library and building an executable to link to such libraries.",
+        "Automate make script creation for bigger projects.",
+        "Create a project under CVS/git repository and record multiple versions/branches and practice merging of branches.",
+        "Debug a C program using gdb to understand core dump of a failed execution.",
+        "Install requisite packages using rpm/deb/apt.",
+        "Write scripts for Simple Distribution of tasks using ssh.",
+        "Write scripts for installation of software in multiple machines.",
+        "Write scripts for obtaining usage stats memory usage and CPU usage for multiple machines.",
+        "A capstone mini project to unify the comprehension of the tools and utilities learnt in this course."
+    ],
+    "units": {}
+}

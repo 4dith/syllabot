@@ -1,0 +1,29 @@
+{
+    "code": "CS354",
+    "name": "Network Programming Lab",
+    "prerequisites": [
+        "CS205"
+    ],
+    "credits": 2,
+    "year": 3,
+    "semester": 2,
+    "references": [
+        "W. Richard Stevens, UNIX Network Programming, Volume 1, Second Edition: Networking APIs: Sockets and XTI, Prentice Hall, 1998.",
+        "W. Richard Stevens, UNIX Network Programming, Volume 2, Second Edition: Interprocess Communications, Prentice Hall, 1999",
+        "W. Richard Stevens, Stephen Rago, Advanced Programming in the UNIX Environment, Pearson Education, Second Edition."
+    ],
+    "experiments": [
+        "Assignment-1: Programs to implement error detection and correction",
+        "Assignment-2: Client-Server applications using inter process communication mechanisms a) FIFO b) Message queues c) Shared memory",
+        "Assignment-3: Implementation of routing algorithms",
+        "Assignment 4. Generate a forwarding table with following details",
+        "Assignment-5: Implement ARP and RARP",
+        "Assignment-6: Installation of Wireshark.",
+        "Assignment-7: Implementation of application layer protocols",
+        "Assignment-8: Connectionless Client-Server applications",
+        "Assignment-9: Implementation of chat servers and mail servers",
+        "Assignment-10: Design and implementation of a text-based conferencing system. You are asked to design and implement a server-based text-based conferencing system with the following features.",
+        "Assignment 11: write a TCP client-server system, write a simple UDP iterative server and client."
+    ],
+    "units": {}
+}

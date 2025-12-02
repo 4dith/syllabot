@@ -1,0 +1,28 @@
+{
+    "code": "CS102",
+    "name": "Introduction to Algorithmic Thinking and Programming Lab",
+    "prerequisites": [],
+    "credits": 2,
+    "year": 1,
+    "semester": null,
+    "references": [
+        "Kenneth Lambert, Fundamentals of Python: First Programs, Cengage Learning,",
+        "R.G. Dromey, how to solve it by Computer, Pearson, 2008.",
+        "The Python Tutorial, Available at: [https://docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/)."
+    ],
+    "experiments": [
+        "Familiarization with Python installation, basic syntax and running scripts in the shell.",
+        "Programs on conditional control constructs.",
+        "Programs on iterative constructs. (While, do-while, for).",
+        "Programs using user defined functions and in-built function calls.",
+        "Programs related to Recursion.",
+        "Programs involving in-built data structures like List, Tuples and Dictionaries.",
+        "Programs related to String processing.",
+        "Programs related to Files and I/O.",
+        "Implementation of Factoring methods.",
+        "Programs that require sorting, searching and selection as sub-routines.",
+        "Problems involving simple 2D graphics.",
+        "Implementation of a capstone application to unify the concepts learnt in the course."
+    ],
+    "units": {}
+}

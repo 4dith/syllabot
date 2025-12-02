@@ -1,0 +1,101 @@
+{
+    "code": "CS253",
+    "name": "Computer Organization and Architecture",
+    "prerequisites": [
+        "CS101",
+        "EC237"
+    ],
+    "credits": 3,
+    "year": 2,
+    "semester": 2,
+    "references": [
+        "Computer Organization, Carl Hamacher, 5th Edition, McGraw Hill Publishers, 2002.",
+        "Computer Organization and Architecture Designing for Performance, William Stallings, 8th Edition, Pearson Education, 2010.",
+        "Computer Architecture: A Quantitative Approach, J.L. Hennessy and D.A. Patterson, 5th Edition, Morgan Kauffmann Publishers, 2012.",
+        "Computer System Architecture, Morris Mano, 3rd Edition, PHI, 2017.",
+        "Computer Architecture: A Quantitative Approach, Hennessy, J. L., and D. A. Patterson. 3rd ed. San Mateo, CA: Morgan Kaufman, 2002"
+    ],
+    "experiments": [],
+    "units": {
+        "Basic Structures of Computers": [
+            "Computer Types",
+            "Functional Units",
+            "Basic Operational Concepts",
+            "Bus Structures",
+            "Software",
+            "Performance",
+            "Multiprocessors and Multi-computers",
+            "Historical Perspective"
+        ],
+        "Machine instructions and Programs": [
+            "Numbers, Arithmetic Operations and Characters",
+            "Memory Locations and Addresses",
+            "Memory Operations",
+            "Instructions and Instruction Sequencing",
+            "Addressing Modes",
+            "Assembly Language",
+            "Basic Input Output Operations",
+            "Stacks and Queues",
+            "Subroutines",
+            "Additional Instructions",
+            "Example Programs, Encoding of Machine Instructions.",
+            "Registers and addressing",
+            "IA-32 Instructions",
+            "IA-32 Assembly Language",
+            "Program Flow Control",
+            "Logic and Shift/Rotate Instructions",
+            "I/O Operations",
+            "Subroutines",
+            "Other Instructions",
+            "Program Examples"
+        ],
+        "Input/output Organization": [
+            "Accessing I/O Devices",
+            "Interrupts",
+            "Processor Examples",
+            "Direct Memory Access",
+            "Buses",
+            "Interface Circuits",
+            "Standard I/O Interfaces"
+        ],
+        "The Memory System": [
+            "Some Basic Concepts",
+            "Semiconductor RAM Memories",
+            "Read Only Memories",
+            "Speed Size and Cost",
+            "Cache Memories: mapping functions, cache performance and replacement algorithms, levels and locality, Performance Considerations",
+            "Virtual Memories",
+            "Memory Management Requirements",
+            "Secondary Storage"
+        ],
+        "Arithmetic": [
+            "Addition and Subtraction of Signed Numbers",
+            "Design of Fast Adders",
+            "Multiplication of Positive Numbers",
+            "Signed-Operand Multiplication",
+            "Fast Multiplication",
+            "Integer Division",
+            "Floating Point Numbers and Operations",
+            "Implementing Floating Point Operations"
+        ],
+        "Basic Processing Unit": [
+            "Some Fundamental Concepts",
+            "Execution of a Complete Instruction",
+            "Multiple-Bus Organization",
+            "Hardwired Control",
+            "Microprogrammed Control"
+        ],
+        "Pipelining": [
+            "Basic Concepts",
+            "Data Hazards",
+            "Instruction Hazards",
+            "Influence on Instruction Sets",
+            "Data Path and Control Considerations",
+            "Super Scalar Operation",
+            "UltraSPARC 2 Example",
+            "Performance Consideration",
+            "Introduction to superscalar architectures",
+            "VLIW machines"
+        ]
+    }
+}

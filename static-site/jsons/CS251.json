@@ -1,0 +1,110 @@
+{
+    "code": "CS251",
+    "name": "Object Oriented Programming",
+    "prerequisites": [
+        "CS101",
+        "CS102",
+        "CS201",
+        "CS204"
+    ],
+    "credits": 4,
+    "year": 2,
+    "semester": 2,
+    "references": [
+        "Java: The Complete Reference, Herbert Schildt, 11th edition, Mc Graw Hill, 2019.",
+        "Head First Java, Kathy Sierra & Bert Bates, 3rd edition, O\u2019Reilly, 2005.",
+        "Clean Code, Robert C Martin, Pearson, 2012.",
+        "Timothy Budd, Object Oriented Programming with Java, Pearson Education, 2009.",
+        "Object Oriented Programming with Java, Debasis Samanta, IIT Kharagpur, accessed through: [https://cse.iitkgp.ac.in/~dsamanta/java/index.htm](https://cse.iitkgp.ac.in/~dsamanta/java/index.htm), Accessed on: August",
+        "Design Patterns, Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides, Addison-Wesley, 1994."
+    ],
+    "experiments": [
+        "Develop programs to familiarize with Object Oriented Design concepts.",
+        "Implement programs to illustrate overloading and overriding.",
+        "Implement programs to familiarize with the Testing and Debugging facilities.",
+        "Implement abstract classes and Interfaces.",
+        "Implement programs using Static classes, blocks and methods.",
+        "Implement programs to compare shallow and deep copy.",
+        "Develop programs using Exception Handling.",
+        "Develop programs using multi-threading and synchronization.",
+        "Implement programs using Generics.",
+        "Implement programs using Linked data structures, Heaps, priority queues, binary search trees and the interfaces List, Set and Map.",
+        "Implement programs using String processing facilities offered by String, String Buffer and StringBuilder classes.",
+        "Develop Event-driven programs for GUI applications that are interactive, responding to events originating from keyboard and mouse.",
+        "Implement programs using Streams and File I/O for reading and writing the contents in sequential and random order.",
+        "Given two words of equal length that are in a dictionary, implement an efficient program to transform one word into another word by changing only one letter at a time.",
+        "Numbers are randomly generated and passed to a method, implement an efficient program to find and maintain the median value as new values are generated.",
+        "Given an N x N matrix of positive and negative integers, implement an efficient program to find the sub-matrix with the largest possible sum."
+    ],
+    "units": {
+        "Overview of Object-Oriented Programming and its need, Java Programming Elements": [
+            "Classes and Objects",
+            "Data types",
+            "Constructors",
+            "Input-Output Handling",
+            "Control structures",
+            "Method overloading and overriding",
+            "Abstraction and Inheritance",
+            "Interfaces",
+            "Understanding final and static: classes, blocks and methods",
+            "Packages"
+        ],
+        "Exception Handling": [
+            "Types of Exceptions",
+            "Exception classes",
+            "try, catch, throw, throws and finally",
+            "Exception Handling with Method Overriding",
+            "Custom Exceptions",
+            "finalize"
+        ],
+        "Multithreaded Programming": [
+            "Introduction to multitasking through processes and threads",
+            "Creating threads",
+            "Thread life cycle",
+            "Thread scheduling",
+            "Thread priorities",
+            "Daemon thread",
+            "Synchronization"
+        ],
+        "Garbage Collection, Runtime class and Memory management in Java.": [],
+        "String handling": [
+            "String",
+            "String Buffer",
+            "StringBuilder",
+            "Tokenization"
+        ],
+        "Generics, Lambda expressions.": [],
+        "The Collections framework": [
+            "List, Set and Map interfaces and the corresponding implementation classes",
+            "Enumerator and iterators"
+        ],
+        "Event handling": [
+            "Event",
+            "Listeners and adapter classes",
+            "Anonymous inner classes"
+        ],
+        "Abstract Windowing Toolkit (AWT)": [
+            "Button",
+            "Label",
+            "Checkbox",
+            "Checkbox Group",
+            "Text Field",
+            "Text Area",
+            "Choice",
+            "List",
+            "Menu",
+            "Panel",
+            "Scrollbar and Swing components",
+            "Layout managers",
+            "Complex Components"
+        ],
+        "MVC and introduction to creational, structural design patterns and behavioural patterns.": [],
+        "File I/O": [
+            "Streams",
+            "Readers and Writers",
+            "Pipes and Filters",
+            "Random Access",
+            "Scanner"
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "code": "ME102",
+    "name": "Engineering Graphics with Computer Aided Drafting",
+    "prerequisites": [],
+    "credits": 2,
+    "year": 1,
+    "semester": null,
+    "references": [
+        "N.D. Bhatt and V.M. Panchal, Engineering Graphics, Charotar Publishers, 2013.",
+        "Sham Tickoo, AutoCAD 2017 for Engineers & Designers, Dreamtech Press, 23 rd Edition, 2016."
+    ],
+    "experiments": [],
+    "units": {
+        "Introduction": [
+            "Overview of the course",
+            "Lines Lettering and Dimensioning: Types of lines, Lettering, Dimensioning",
+            "Geometrical Construction of Polygons",
+            "Scales",
+            "Introduction to Computer Aided Drafting (CAD), DRAW tools, MODIFY tools, TEXT, DIMENSION, PROPERTIES, etc"
+        ],
+        "Orthographic Projection": [
+            "Principles of Orthographic projection",
+            "Four Systems of Orthographic Projections",
+            "Projection of Points: Projections of points when they are situated in different quadrants",
+            "Projections of Lines: Projections of a line parallel to one of the reference planes and inclined to the other, line inclined to both the reference planes, Traces",
+            "Projections of Planes: Projections of a plane perpendicular to one of the reference planes and inclined to the other, Oblique planes.",
+            "Projections of Solids: Projections of solids whose axis is parallel to one of the reference planes and inclined to the other, axis inclined to both the planes.",
+            "Sections of Solids: Sectional planes, Sectional views - Prism, pyramid, cylinder and cone, true shape of the section.",
+            "Isometric Views: Isometric axis, Isometric Planes, Isometric View, Isometric projection, Isometric views - simple objects."
+        ]
+    }
+}
