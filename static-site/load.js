@@ -38,7 +38,7 @@ async function loadPartial(selector, url, clickedEl) {
         fetch('/jsons/' + code + '.json')
             .then(response => response.json()) // Parse the JSON data from the response
             .then(jsonObject => {
-                console.log(code)
+                // console.log(code)
 
                 const cCode = container.querySelector('#course-code');
                 cCode.innerHTML = jsonObject.code;
@@ -127,7 +127,7 @@ async function loadPartial(selector, url, clickedEl) {
             .catch(error => console.error('Error fetching JSON:', error));
     }
 
-    if (url == "chat.html") {
+    if (url.includes("chat")) {
         initChat();
     }
 }
@@ -139,16 +139,12 @@ async function initChat() {
 
     const courseDict = await loadCourseDict();
 
-    console.log("Chat inits")
-
     messageForm.addEventListener('submit', async (event) => {
         event.preventDefault();
         const message = messageInput.value.trim();
         if (message.length === 0) {
             return;
         }
-
-        console.log(message)
 
         const queryItem = document.createElement('li');
         queryItem.classList.add('message', 'sent')
@@ -183,8 +179,6 @@ Answer this question to the best of your ability: ${message}
 
             replyText = await queryLLM(prompt);
         }
-
-        console.log(replyText)
     
         const replyItem = document.createElement('li');
         replyItem.classList.add('message', 'received');
@@ -270,7 +264,7 @@ document.addEventListener('click', function (e) {
     e.preventDefault();
     const url = link.getAttribute('href');
 
-    if (url == "course.html")
+    if (url.includes("course"))
         loadPartial('#course-content', url, link);
     else
         loadPartial('#page-content', url, link);
